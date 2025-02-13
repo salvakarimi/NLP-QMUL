@@ -1,0 +1,570 @@
+False Negative: Original Text: FLYING out to HOU Monday for the Jets-Texans Pre season MNF game! \""CANT WAIT\"" #FLIGHTBOYS -- Actual Label: positive 
+Extracted Features: {'flying': 1, 'out': 1, 'to': 1, 'hou': 1, 'monday': 1, 'for': 1, 'the': 1, 'jetstexans': 1, 'pre': 1, 'season': 1, 'mnf': 1, 'game': 1, 'cant': 1, 'wait': 1, 'flightboys': 1}
+
+False Negative: Original Text: RT: @thecyclr Its Friday people!!! Get that Kermit the frog cycling feelin ;) http://t.co/1eN066lh // And i've started holidays!! :)) -- Actual Label: positive 
+Extracted Features: {'rt': 1, 'thecyclr': 1, 'its': 1, 'friday': 1, 'people': 1, 'get': 1, 'that': 1, 'kermit': 1, 'the': 1, 'frog': 1, 'cycling': 1, 'feelin': 1, 'httptco1en066lh': 1, 'and': 1, 'ive': 1, 'started': 1, 'holidays': 1}
+
+False Negative: Original Text: I have heard it said that the 2nd G in Snoop Dogg represents extra gangsterishness, for how else do you explain this particular redundancy? -- Actual Label: positive 
+Extracted Features: {'i': 1, 'have': 1, 'heard': 1, 'it': 1, 'said': 1, 'that': 1, 'the': 1, '2nd': 1, 'g': 1, 'in': 1, 'snoop': 1, 'dogg': 1, 'represents': 1, 'extra': 1, 'gangsterishness': 1, 'for': 1, 'how': 1, 'else': 1, 'do': 1, 'you': 1, 'explain': 1, 'this': 1, 'particular': 1, 'redundancy': 1}
+
+False Negative: Original Text: What I love most about this is that every hag will be on DCUM tomorrow talking a t how trashy Nicki or Bey is. When clearly...#VMAs -- Actual Label: positive 
+Extracted Features: {'what': 1, 'i': 1, 'love': 1, 'most': 1, 'about': 1, 'this': 1, 'is': 1, 'that': 1, 'every': 1, 'hag': 1, 'will': 1, 'be': 1, 'on': 1, 'dcum': 1, 'tomorrow': 1, 'talking': 1, 'a': 1, 't': 1, 'how': 1, 'trashy': 1, 'nicki': 1, 'or': 1, 'bey': 1, 'when': 1, 'clearlyvmas': 1}
+
+False Negative: Original Text: Google Earth now available in VR https://t.co/AtowhL7iZV #internet #feedly -- Actual Label: positive 
+Extracted Features: {'google': 1, 'earth': 1, 'now': 1, 'available': 1, 'in': 1, 'vr': 1, 'httpstcoatowhl7izv': 1, 'internet': 1, 'feedly': 1}
+
+False Negative: Original Text: @CassieLeuffen Chuck Norris and 10,000 people march through downtown Birmingham Saturday and @OANN doesn't cover it? Who dropped the ball? -- Actual Label: positive 
+Extracted Features: {'cassieleuffen': 1, 'chuck': 1, 'norris': 1, 'and': 1, '10000': 1, 'people': 1, 'march': 1, 'through': 1, 'downtown': 1, 'birmingham': 1, 'saturday': 1, 'oann': 1, 'doesnt': 1, 'cover': 1, 'it': 1, 'who': 1, 'dropped': 1, 'the': 1, 'ball': 1}
+
+False Negative: Original Text: Sundays vlog is processing, Monday's is exporting... You know for having to do it all on a iPad is say I'm doing pretty good. -- Actual Label: positive 
+Extracted Features: {'sundays': 1, 'vlog': 1, 'is': 1, 'processing': 1, 'mondays': 1, 'exporting': 1, 'you': 1, 'know': 1, 'for': 1, 'having': 1, 'to': 1, 'do': 1, 'it': 1, 'all': 1, 'on': 1, 'a': 1, 'ipad': 1, 'say': 1, 'im': 1, 'doing': 1, 'pretty': 1, 'good': 1}
+
+False Negative: Original Text: I don't ever Skate Etnies, but Ryan Sheckler 7's the Marana is Too Sicc! As Soon as it Comes Out in November I'm Buying a Pair :-) -- Actual Label: positive 
+Extracted Features: {'i': 1, 'dont': 1, 'ever': 1, 'skate': 1, 'etnies': 1, 'but': 1, 'ryan': 1, 'sheckler': 1, '7s': 1, 'the': 1, 'marana': 1, 'is': 1, 'too': 1, 'sicc': 1, 'as': 1, 'soon': 1, 'it': 1, 'comes': 1, 'out': 1, 'in': 1, 'november': 1, 'im': 1, 'buying': 1, 'a': 1, 'pair': 1}
+
+False Negative: Original Text: Any evil twins you may have won't be able to break Windows 10's facial recognition security. So that's reassuring. http://t.co/6bUshfnfen -- Actual Label: positive 
+Extracted Features: {'any': 1, 'evil': 1, 'twins': 1, 'you': 1, 'may': 1, 'have': 1, 'wont': 1, 'be': 1, 'able': 1, 'to': 1, 'break': 1, 'windows': 1, '10s': 1, 'facial': 1, 'recognition': 1, 'security': 1, 'so': 1, 'thats': 1, 'reassuring': 1, 'httptco6bushfnfen': 1}
+
+False Negative: Original Text: I will end the embargo against Cuba. -- Actual Label: positive 
+Extracted Features: {'i': 1, 'will': 1, 'end': 1, 'the': 1, 'embargo': 1, 'against': 1, 'cuba': 1}
+
+False Negative: Original Text: If you are one of the many shoppers out there wanting to take advantage of Amazon Prime Day today July 15 -... http://t.co/hbQaLKwDzV -- Actual Label: positive 
+Extracted Features: {'if': 1, 'you': 1, 'are': 1, 'one': 1, 'of': 1, 'the': 1, 'many': 1, 'shoppers': 1, 'out': 1, 'there': 1, 'wanting': 1, 'to': 1, 'take': 1, 'advantage': 1, 'amazon': 1, 'prime': 1, 'day': 1, 'today': 1, 'july': 1, '15': 1, 'httptcohbqalkwdzv': 1}
+
+False Negative: Original Text: @Ramzwi @LeutrimRexhaj If you're struggling come January and Benzema don't happen, I'd go for him, he'll give 110% for Arsenal, and score! -- Actual Label: positive 
+Extracted Features: {'ramzwi': 1, 'leutrimrexhaj': 1, 'if': 1, 'youre': 1, 'struggling': 1, 'come': 1, 'january': 1, 'and': 1, 'benzema': 1, 'dont': 1, 'happen': 1, 'id': 1, 'go': 1, 'for': 1, 'him': 1, 'hell': 1, 'give': 1, '110': 1, 'arsenal': 1, 'score': 1}
+
+False Negative: Original Text: @storm_girl83 Gary Ablett polled 2nd or 3rd & his team finished last. Not all about the team. Jobe has improved & grown so much over the yrs -- Actual Label: positive 
+Extracted Features: {'storm_girl83': 1, 'gary': 1, 'ablett': 1, 'polled': 1, '2nd': 1, 'or': 1, '3rd': 1, 'his': 1, 'team': 1, 'finished': 1, 'last': 1, 'not': 1, 'all': 1, 'about': 1, 'the': 1, 'jobe': 1, 'has': 1, 'improved': 1, 'grown': 1, 'so': 1, 'much': 1, 'over': 1, 'yrs': 1}
+
+False Negative: Original Text: A Monday without teen wolf is a Monday with less stress and anxiety -- Actual Label: positive 
+Extracted Features: {'a': 1, 'monday': 1, 'without': 1, 'teen': 1, 'wolf': 1, 'is': 1, 'with': 1, 'less': 1, 'stress': 1, 'and': 1, 'anxiety': 1}
+
+False Negative: Original Text: Monster jam tonight and Celtics home opener tomorrow...loveeee living walking distance from the gahhhhden #bostongirl #citychick -- Actual Label: positive 
+Extracted Features: {'monster': 1, 'jam': 1, 'tonight': 1, 'and': 1, 'celtics': 1, 'home': 1, 'opener': 1, 'tomorrowloveeee': 1, 'living': 1, 'walking': 1, 'distance': 1, 'from': 1, 'the': 1, 'gahhhhden': 1, 'bostongirl': 1, 'citychick': 1}
+
+False Negative: Original Text: @EleanorJCalder Hello, Eleanor. Will you please follow my account @beacaresosa for my birthday on the 14th? please, you won't regret it. -- Actual Label: positive 
+Extracted Features: {'eleanorjcalder': 1, 'hello': 1, 'eleanor': 1, 'will': 1, 'you': 1, 'please': 1, 'follow': 1, 'my': 1, 'account': 1, 'beacaresosa': 1, 'for': 1, 'birthday': 1, 'on': 1, 'the': 1, '14th': 1, 'wont': 1, 'regret': 1, 'it': 1}
+
+False Negative: Original Text: I can and will fight for #BlackLivesMatter . However, I am white. I never will be turned down for a job because of my skin tone.4/? -- Actual Label: positive 
+Extracted Features: {'i': 1, 'can': 1, 'and': 1, 'will': 1, 'fight': 1, 'for': 1, 'blacklivesmatter': 1, 'however': 1, 'am': 1, 'white': 1, 'never': 1, 'be': 1, 'turned': 1, 'down': 1, 'a': 1, 'job': 1, 'because': 1, 'of': 1, 'my': 1, 'skin': 1, 'tone4': 1}
+
+False Negative: Original Text: Why do people make such a big deal out of being alone on Valentine's day? Look, you may not have a lover but theres chocolate -- Actual Label: positive 
+Extracted Features: {'why': 1, 'do': 1, 'people': 1, 'make': 1, 'such': 1, 'a': 1, 'big': 1, 'deal': 1, 'out': 1, 'of': 1, 'being': 1, 'alone': 1, 'on': 1, 'valentines': 1, 'day': 1, 'look': 1, 'you': 1, 'may': 1, 'not': 1, 'have': 1, 'lover': 1, 'but': 1, 'theres': 1, 'chocolate': 1}
+
+False Negative: Original Text: Amazon may be cooking up a $50 tablet The Internet giant is reportedly working on new Fire tablets for the... http://t.co/yRmqFq3PxN -- Actual Label: positive 
+Extracted Features: {'amazon': 1, 'may': 1, 'be': 1, 'cooking': 1, 'up': 1, 'a': 1, '50': 1, 'tablet': 1, 'the': 1, 'internet': 1, 'giant': 1, 'is': 1, 'reportedly': 1, 'working': 1, 'on': 1, 'new': 1, 'fire': 1, 'tablets': 1, 'for': 1, 'httptcoyrmqfq3pxn': 1}
+
+False Negative: Original Text: @Safeeyar yap. That's why i dont understand why they're making fun with messi's height. Do they expecting him to be a Jan Koller? Lol -- Actual Label: positive 
+Extracted Features: {'safeeyar': 1, 'yap': 1, 'thats': 1, 'why': 1, 'i': 1, 'dont': 1, 'understand': 1, 'theyre': 1, 'making': 1, 'fun': 1, 'with': 1, 'messis': 1, 'height': 1, 'do': 1, 'they': 1, 'expecting': 1, 'him': 1, 'to': 1, 'be': 1, 'a': 1, 'jan': 1, 'koller': 1, 'lol': 1}
+
+False Negative: Original Text: Holla to all my bad hombres who decided to work today and get that money $$$ #blackgrinday -- Actual Label: positive 
+Extracted Features: {'holla': 1, 'to': 1, 'all': 1, 'my': 1, 'bad': 1, 'hombres': 1, 'who': 1, 'decided': 1, 'work': 1, 'today': 1, 'and': 1, 'get': 1, 'that': 1, 'money': 1, 'blackgrinday': 1}
+
+False Negative: Original Text: #HappyThanksgiving @tonyromo! From your #Uber delivery driver you didn't tip on Thanksgiving... Bless you sir. -- Actual Label: positive 
+Extracted Features: {'happythanksgiving': 1, 'tonyromo': 1, 'from': 1, 'your': 1, 'uber': 1, 'delivery': 1, 'driver': 1, 'you': 1, 'didnt': 1, 'tip': 1, 'on': 1, 'thanksgiving': 1, 'bless': 1, 'sir': 1}
+
+False Negative: Original Text: When you're about to not go to school to go see Justin.  https://t.co/yv1iJ293Ay -- Actual Label: positive 
+Extracted Features: {'when': 1, 'youre': 1, 'about': 1, 'to': 1, 'not': 1, 'go': 1, 'school': 1, 'see': 1, 'justin': 1, 'httpstcoyv1ij293ay': 1}
+
+False Negative: Original Text: @Docs357 My 2nd Home after New England was California--70 average temperature-- quiet & nice it is here  but 6 mos eskimo-LOL -- Actual Label: positive 
+Extracted Features: {'docs357': 1, 'my': 1, '2nd': 1, 'home': 1, 'after': 1, 'new': 1, 'england': 1, 'was': 1, 'california70': 1, 'average': 1, 'temperature': 1, 'quiet': 1, 'nice': 1, 'it': 1, 'is': 1, 'here': 1, 'but': 1, '6': 1, 'mos': 1, 'eskimolol': 1}
+
+False Negative: Original Text: Driving west towards Banff as the sun sets on the mountains. It's comforting to see those hills again. Home http://t.co/T0z2RX1U -- Actual Label: positive 
+Extracted Features: {'driving': 1, 'west': 1, 'towards': 1, 'banff': 1, 'as': 1, 'the': 1, 'sun': 1, 'sets': 1, 'on': 1, 'mountains': 1, 'its': 1, 'comforting': 1, 'to': 1, 'see': 1, 'those': 1, 'hills': 1, 'again': 1, 'home': 1, 'httptcot0z2rx1u': 1}
+
+False Negative: Original Text: I'm trying to decide what I want my son to be 4 Halloween 1.Donald Trump  2.Barack Obama or 3rd Michael Jackson he could pull off all three -- Actual Label: positive 
+Extracted Features: {'im': 1, 'trying': 1, 'to': 1, 'decide': 1, 'what': 1, 'i': 1, 'want': 1, 'my': 1, 'son': 1, 'be': 1, '4': 1, 'halloween': 1, '1donald': 1, 'trump': 1, '2barack': 1, 'obama': 1, 'or': 1, '3rd': 1, 'michael': 1, 'jackson': 1, 'he': 1, 'could': 1, 'pull': 1, 'off': 1, 'all': 1, 'three': 1}
+
+False Negative: Original Text: Obama is good for Israel: Tens of millions of Americans will go to the polls on Tuesday to vote for a president ... http://t.co/LZZl0YhG -- Actual Label: positive 
+Extracted Features: {'obama': 1, 'is': 1, 'good': 1, 'for': 1, 'israel': 1, 'tens': 1, 'of': 1, 'millions': 1, 'americans': 1, 'will': 1, 'go': 1, 'to': 1, 'the': 1, 'polls': 1, 'on': 1, 'tuesday': 1, 'vote': 1, 'a': 1, 'president': 1, 'httptcolzzl0yhg': 1}
+
+False Negative: Original Text: Messi was a leader yesterday when he had told Suarez & Neymar to calm down after stuff got heated. #fcblive https://t.co/KXpWb9hV1i -- Actual Label: positive 
+Extracted Features: {'messi': 1, 'was': 1, 'a': 1, 'leader': 1, 'yesterday': 1, 'when': 1, 'he': 1, 'had': 1, 'told': 1, 'suarez': 1, 'neymar': 1, 'to': 1, 'calm': 1, 'down': 1, 'after': 1, 'stuff': 1, 'got': 1, 'heated': 1, 'fcblive': 1, 'httpstcokxpwb9hv1i': 1}
+
+False Negative: Original Text: Teen wolf was the only thing that made my Monday's greattt  ... What do I do now -- Actual Label: positive 
+Extracted Features: {'teen': 1, 'wolf': 1, 'was': 1, 'the': 1, 'only': 1, 'thing': 1, 'that': 1, 'made': 1, 'my': 1, 'mondays': 1, 'greattt': 1, 'what': 1, 'do': 1, 'i': 1, 'now': 1}
+
+False Negative: Original Text: \""Yolo\"" really u gonna tell me that I am living my life it may not be how it use to be but I love my life way more being a mother #RNS -- Actual Label: positive 
+Extracted Features: {'yolo': 1, 'really': 1, 'u': 1, 'gonna': 1, 'tell': 1, 'me': 1, 'that': 1, 'i': 1, 'am': 1, 'living': 1, 'my': 1, 'life': 1, 'it': 1, 'may': 1, 'not': 1, 'be': 1, 'how': 1, 'use': 1, 'to': 1, 'but': 1, 'love': 1, 'way': 1, 'more': 1, 'being': 1, 'a': 1, 'mother': 1, 'rns': 1}
+
+False Negative: Original Text: Episode 39: Ant-Man the Comics is out now to hold you over until Episode 40 arrives on Wednesday! http://t.co/U1kWkznYip -- Actual Label: positive 
+Extracted Features: {'episode': 1, '39': 1, 'antman': 1, 'the': 1, 'comics': 1, 'is': 1, 'out': 1, 'now': 1, 'to': 1, 'hold': 1, 'you': 1, 'over': 1, 'until': 1, '40': 1, 'arrives': 1, 'on': 1, 'wednesday': 1, 'httptcou1kwkznyip': 1}
+
+False Negative: Original Text: Wow!What an eye opening piece written by Niraj Srivastava.Tony Blair for #Iraq & David Cameron for #Libya 🇱🇾 have l… https://t.co/UfGFdELKrM -- Actual Label: positive 
+Extracted Features: {'wowwhat': 1, 'an': 1, 'eye': 1, 'opening': 1, 'piece': 1, 'written': 1, 'by': 1, 'niraj': 1, 'srivastavatony': 1, 'blair': 1, 'for': 1, 'iraq': 1, 'david': 1, 'cameron': 1, 'libya': 1, 'have': 1, 'l': 1, 'httpstcoufgfdelkrm': 1}
+
+False Negative: Original Text: I'm going to Target today solely to look at Star Wars toys. I missed Force Friday due to filming. -- Actual Label: positive 
+Extracted Features: {'im': 1, 'going': 1, 'to': 1, 'target': 1, 'today': 1, 'solely': 1, 'look': 1, 'at': 1, 'star': 1, 'wars': 1, 'toys': 1, 'i': 1, 'missed': 1, 'force': 1, 'friday': 1, 'due': 1, 'filming': 1}
+
+False Negative: Original Text: Bernie Sanders may be extreme, but he honestly seems to despise poverty, racism, discrimination, war, income inequality, &amp; corrupt politics. -- Actual Label: positive 
+Extracted Features: {'bernie': 1, 'sanders': 1, 'may': 1, 'be': 1, 'extreme': 1, 'but': 1, 'he': 1, 'honestly': 1, 'seems': 1, 'to': 1, 'despise': 1, 'poverty': 1, 'racism': 1, 'discrimination': 1, 'war': 1, 'income': 1, 'inequality': 1, 'amp': 1, 'corrupt': 1, 'politics': 1}
+
+False Negative: Original Text: Thank u for standing up for Israel Mr. Trump! What a refreshing change after the past 7 yrs. #MakeAmericaGreatAgain  https://t.co/jqyyEan54g -- Actual Label: positive 
+Extracted Features: {'thank': 1, 'u': 1, 'for': 1, 'standing': 1, 'up': 1, 'israel': 1, 'mr': 1, 'trump': 1, 'what': 1, 'a': 1, 'refreshing': 1, 'change': 1, 'after': 1, 'the': 1, 'past': 1, '7': 1, 'yrs': 1, 'makeamericagreatagain': 1, 'httpstcojqyyean54g': 1}
+
+False Negative: Original Text: #CMAfest Keith Urban with Eric Church ...... OMG. I may die -- Actual Label: positive 
+Extracted Features: {'cmafest': 1, 'keith': 1, 'urban': 1, 'with': 1, 'eric': 1, 'church': 1, 'omg': 1, 'i': 1, 'may': 1, 'die': 1}
+
+False Negative: Original Text: i dont know if this match is live btwn Anderson&amp;Murray, but Murray take the 3rd set...he's kinda frustrated but still...Go Andy!!! #USOpen -- Actual Label: positive 
+Extracted Features: {'i': 1, 'dont': 1, 'know': 1, 'if': 1, 'this': 1, 'match': 1, 'is': 1, 'live': 1, 'btwn': 1, 'andersonampmurray': 1, 'but': 1, 'murray': 1, 'take': 1, 'the': 1, '3rd': 1, 'sethes': 1, 'kinda': 1, 'frustrated': 1, 'stillgo': 1, 'andy': 1, 'usopen': 1}
+
+False Negative: Original Text: Darren Sammy and Dwyane Bravo will donate der full 3rd match(Vs NZ) fee to Runako Morton's wife!! Dedicating it to a team man!! RIP Morton -- Actual Label: positive 
+Extracted Features: {'darren': 1, 'sammy': 1, 'and': 1, 'dwyane': 1, 'bravo': 1, 'will': 1, 'donate': 1, 'der': 1, 'full': 1, '3rd': 1, 'matchvs': 1, 'nz': 1, 'fee': 1, 'to': 1, 'runako': 1, 'mortons': 1, 'wife': 1, 'dedicating': 1, 'it': 1, 'a': 1, 'team': 1, 'man': 1, 'rip': 1, 'morton': 1}
+
+False Negative: Original Text: I may not agree with her stance on Greek Debt Crisis but Angela Merkel's stand &amp; leadership against xenophobia is admirable! -- Actual Label: positive 
+Extracted Features: {'i': 1, 'may': 1, 'not': 1, 'agree': 1, 'with': 1, 'her': 1, 'stance': 1, 'on': 1, 'greek': 1, 'debt': 1, 'crisis': 1, 'but': 1, 'angela': 1, 'merkels': 1, 'stand': 1, 'amp': 1, 'leadership': 1, 'against': 1, 'xenophobia': 1, 'is': 1, 'admirable': 1}
+
+False Negative: Original Text: @geoffstults on September 5th, The Finder reaches italian tv (with the worst title translation ever). FINALLY!!! :D #finder #risolutore #sky -- Actual Label: positive 
+Extracted Features: {'geoffstults': 1, 'on': 1, 'september': 1, '5th': 1, 'the': 1, 'finder': 1, 'reaches': 1, 'italian': 1, 'tv': 1, 'with': 1, 'worst': 1, 'title': 1, 'translation': 1, 'ever': 1, 'finally': 1, 'd': 1, 'risolutore': 1, 'sky': 1}
+
+False Negative: Original Text: Water Pipe? stop Geo engineering =#chemtrail Fracking #Fracking would be a great start. https://t.co/17tW4kWPWW -- Actual Label: positive 
+Extracted Features: {'water': 1, 'pipe': 1, 'stop': 1, 'geo': 1, 'engineering': 1, 'chemtrail': 1, 'fracking': 1, 'would': 1, 'be': 1, 'a': 1, 'great': 1, 'start': 1, 'httpstco17tw4kwpww': 1}
+
+False Negative: Original Text: All you need is Ryan Leaf and you got a show. RT @jimrome: Aaron Rodgers, Kurt Warner and Kyle Kendrick are all in The Jungle tomorrow. -- Actual Label: positive 
+Extracted Features: {'all': 1, 'you': 1, 'need': 1, 'is': 1, 'ryan': 1, 'leaf': 1, 'and': 1, 'got': 1, 'a': 1, 'show': 1, 'rt': 1, 'jimrome': 1, 'aaron': 1, 'rodgers': 1, 'kurt': 1, 'warner': 1, 'kyle': 1, 'kendrick': 1, 'are': 1, 'in': 1, 'the': 1, 'jungle': 1, 'tomorrow': 1}
+
+False Negative: Original Text: @AJWard1993 if anything it'll make it bigger. The IRA said Bloody Sunday was the best recruitment campaign they could hope for. -- Actual Label: positive 
+Extracted Features: {'ajward1993': 1, 'if': 1, 'anything': 1, 'itll': 1, 'make': 1, 'it': 1, 'bigger': 1, 'the': 1, 'ira': 1, 'said': 1, 'bloody': 1, 'sunday': 1, 'was': 1, 'best': 1, 'recruitment': 1, 'campaign': 1, 'they': 1, 'could': 1, 'hope': 1, 'for': 1}
+
+False Negative: Original Text: @Mark_Sanchez Here's a pic of my son before we took him to see you at Training Camp today! He's really a Sanchez too! http://t.co/MGcB7rH -- Actual Label: positive 
+Extracted Features: {'mark_sanchez': 1, 'heres': 1, 'a': 1, 'pic': 1, 'of': 1, 'my': 1, 'son': 1, 'before': 1, 'we': 1, 'took': 1, 'him': 1, 'to': 1, 'see': 1, 'you': 1, 'at': 1, 'training': 1, 'camp': 1, 'today': 1, 'hes': 1, 'really': 1, 'sanchez': 1, 'too': 1, 'httptcomgcb7rh': 1}
+
+False Negative: Original Text: Occupy Unmasked with Andrew Breitbart - Citizens United Productions http://t.co/ppVuF9K4 via @sharethis*hAPPY & CHEERY MONDAY!* LOL or NO??? -- Actual Label: positive 
+Extracted Features: {'occupy': 1, 'unmasked': 1, 'with': 1, 'andrew': 1, 'breitbart': 1, 'citizens': 1, 'united': 1, 'productions': 1, 'httptcoppvuf9k4': 1, 'via': 1, 'sharethishappy': 1, 'cheery': 1, 'monday': 1, 'lol': 1, 'or': 1, 'no': 1}
+
+False Negative: Original Text: @Wildraar @iankatz1000 of course it is but what's changed since May 7th? Lab need votes from Ukip and Tories to win GE. JC won't get those. -- Actual Label: positive 
+Extracted Features: {'wildraar': 1, 'iankatz1000': 1, 'of': 1, 'course': 1, 'it': 1, 'is': 1, 'but': 1, 'whats': 1, 'changed': 1, 'since': 1, 'may': 1, '7th': 1, 'lab': 1, 'need': 1, 'votes': 1, 'from': 1, 'ukip': 1, 'and': 1, 'tories': 1, 'to': 1, 'win': 1, 'ge': 1, 'jc': 1, 'wont': 1, 'get': 1, 'those': 1}
+
+False Negative: Original Text: @onekybabydoll: Wisconsin don't forget to VOTE TODAY!! VOTE DEMOCRAT!! Go Wisconsin.#WIunion. Its critical to vote. GOP thinks you wont -- Actual Label: positive 
+Extracted Features: {'onekybabydoll': 1, 'wisconsin': 1, 'dont': 1, 'forget': 1, 'to': 1, 'vote': 1, 'today': 1, 'democrat': 1, 'go': 1, 'wisconsinwiunion': 1, 'its': 1, 'critical': 1, 'gop': 1, 'thinks': 1, 'you': 1, 'wont': 1}
+
+False Negative: Original Text: Paul says even though they may not have votes to defund Planned Parenthood, 'I'm going to make them vote.' -- Actual Label: positive 
+Extracted Features: {'paul': 1, 'says': 1, 'even': 1, 'though': 1, 'they': 1, 'may': 1, 'not': 1, 'have': 1, 'votes': 1, 'to': 1, 'defund': 1, 'planned': 1, 'parenthood': 1, 'im': 1, 'going': 1, 'make': 1, 'them': 1, 'vote': 1}
+
+False Negative: Original Text: George Osborne sat giggling, sums the Torirs up, it's all a game to them #SyrianRefugees -- Actual Label: positive 
+Extracted Features: {'george': 1, 'osborne': 1, 'sat': 1, 'giggling': 1, 'sums': 1, 'the': 1, 'torirs': 1, 'up': 1, 'its': 1, 'all': 1, 'a': 1, 'game': 1, 'to': 1, 'them': 1, 'syrianrefugees': 1}
+
+False Negative: Original Text: Why would you still wear shorts when it's this cold?!  I love how Britain see's a bit of sun and they're like 'OOOH LET'S STRIP!' -- Actual Label: positive 
+Extracted Features: {'why': 1, 'would': 1, 'you': 1, 'still': 1, 'wear': 1, 'shorts': 1, 'when': 1, 'its': 1, 'this': 1, 'cold': 1, 'i': 1, 'love': 1, 'how': 1, 'britain': 1, 'sees': 1, 'a': 1, 'bit': 1, 'of': 1, 'sun': 1, 'and': 1, 'theyre': 1, 'like': 1, 'oooh': 1, 'lets': 1, 'strip': 1}
+
+False Negative: Original Text: \"" Guys who have crushes, have little a little penis! \"" Lmfao the random shit Ambrose says in 6th prd ! -- Actual Label: positive 
+Extracted Features: {'guys': 1, 'who': 1, 'have': 1, 'crushes': 1, 'little': 1, 'a': 1, 'penis': 1, 'lmfao': 1, 'the': 1, 'random': 1, 'shit': 1, 'ambrose': 1, 'says': 1, 'in': 1, '6th': 1, 'prd': 1}
+
+False Negative: Original Text: \"Why America May Go To Hell\"- wish it wouldve been completed and i wish i could read the contents of it...  by MLK -- Actual Label: positive 
+Extracted Features: {'why': 1, 'america': 1, 'may': 1, 'go': 1, 'to': 1, 'hell': 1, 'wish': 1, 'it': 1, 'wouldve': 1, 'been': 1, 'completed': 1, 'and': 1, 'i': 1, 'could': 1, 'read': 1, 'the': 1, 'contents': 1, 'of': 1, 'by': 1, 'mlk': 1}
+
+False Negative: Original Text: Was searching for Cyberpunk style movies I may not have seen and found one called NIRVANA w/Christopher Lambert. It's weird, I like it. -- Actual Label: positive 
+Extracted Features: {'was': 1, 'searching': 1, 'for': 1, 'cyberpunk': 1, 'style': 1, 'movies': 1, 'i': 1, 'may': 1, 'not': 1, 'have': 1, 'seen': 1, 'and': 1, 'found': 1, 'one': 1, 'called': 1, 'nirvana': 1, 'wchristopher': 1, 'lambert': 1, 'its': 1, 'weird': 1, 'like': 1, 'it': 1}
+
+False Negative: Original Text: News Alarm: David Wright (3B - NYM) David Wright (hamstring) is upgraded to probable for Monday\'s game against the Phillies. -- Actual Label: positive 
+Extracted Features: {'news': 1, 'alarm': 1, 'david': 1, 'wright': 1, '3b': 1, 'nym': 1, 'hamstring': 1, 'is': 1, 'upgraded': 1, 'to': 1, 'probable': 1, 'for': 1, 'mondays': 1, 'game': 1, 'against': 1, 'the': 1, 'phillies': 1}
+
+False Negative: Original Text: I'm thankful for all of the nasty women, bad hombres and various other sub groups fighting for my rights and the... https://t.co/tH5ULIK2ft -- Actual Label: positive 
+Extracted Features: {'im': 1, 'thankful': 1, 'for': 1, 'all': 1, 'of': 1, 'the': 1, 'nasty': 1, 'women': 1, 'bad': 1, 'hombres': 1, 'and': 1, 'various': 1, 'other': 1, 'sub': 1, 'groups': 1, 'fighting': 1, 'my': 1, 'rights': 1, 'httpstcoth5ulik2ft': 1}
+
+False Negative: Original Text: My baby girl has changed so much! It seems like yesterday, she was 8 years old. :(•{#twd #twdg #TheWalkingDead… https://t.co/zvdMh1oj6N -- Actual Label: positive 
+Extracted Features: {'my': 1, 'baby': 1, 'girl': 1, 'has': 1, 'changed': 1, 'so': 1, 'much': 1, 'it': 1, 'seems': 1, 'like': 1, 'yesterday': 1, 'she': 1, 'was': 1, '8': 1, 'years': 1, 'old': 1, 'twd': 1, 'twdg': 1, 'thewalkingdead': 1, 'httpstcozvdmh1oj6n': 1}
+
+False Negative: Original Text: First the Superbowl now Revel will finally be released on DVD on Nov 24th! My day is complete!!!! Oh how I love my Bey -- Actual Label: positive 
+Extracted Features: {'first': 1, 'the': 1, 'superbowl': 1, 'now': 1, 'revel': 1, 'will': 1, 'finally': 1, 'be': 1, 'released': 1, 'on': 1, 'dvd': 1, 'nov': 1, '24th': 1, 'my': 1, 'day': 1, 'is': 1, 'complete': 1, 'oh': 1, 'how': 1, 'i': 1, 'love': 1, 'bey': 1}
+
+False Negative: Original Text: @TALENTEDBLONDE @joebrusuelas Listen here hot stuff, the only thing to look forward to in January is the Ravens run to the Superbowl. -- Actual Label: positive 
+Extracted Features: {'talentedblonde': 1, 'joebrusuelas': 1, 'listen': 1, 'here': 1, 'hot': 1, 'stuff': 1, 'the': 1, 'only': 1, 'thing': 1, 'to': 1, 'look': 1, 'forward': 1, 'in': 1, 'january': 1, 'is': 1, 'ravens': 1, 'run': 1, 'superbowl': 1}
+
+False Negative: Original Text: @FirstTake Will is rockin those Tony Romo socks !! -- Actual Label: positive 
+Extracted Features: {'firsttake': 1, 'will': 1, 'is': 1, 'rockin': 1, 'those': 1, 'tony': 1, 'romo': 1, 'socks': 1}
+
+False Negative: Original Text: Lexus may not know anything about skateboarding but science does all the talking. Back to the future was no joke! -- Actual Label: positive 
+Extracted Features: {'lexus': 1, 'may': 1, 'not': 1, 'know': 1, 'anything': 1, 'about': 1, 'skateboarding': 1, 'but': 1, 'science': 1, 'does': 1, 'all': 1, 'the': 1, 'talking': 1, 'back': 1, 'to': 1, 'future': 1, 'was': 1, 'no': 1, 'joke': 1}
+
+False Negative: Original Text: @MsHeatherBeaver I feel like you'd rate this one a close 2nd to them doing the Beyonce mix.  https://t.co/kSQss0fUor -- Actual Label: positive 
+Extracted Features: {'msheatherbeaver': 1, 'i': 1, 'feel': 1, 'like': 1, 'youd': 1, 'rate': 1, 'this': 1, 'one': 1, 'a': 1, 'close': 1, '2nd': 1, 'to': 1, 'them': 1, 'doing': 1, 'the': 1, 'beyonce': 1, 'mix': 1, 'httpstcoksqss0fuor': 1}
+
+False Negative: Original Text: Tell it, Sistah! #ElizabethWarren #TrumpTransitionTeam #DrainTheSwamp https://t.co/NxPafi66iW -- Actual Label: positive 
+Extracted Features: {'tell': 1, 'it': 1, 'sistah': 1, 'elizabethwarren': 1, 'trumptransitionteam': 1, 'draintheswamp': 1, 'httpstconxpafi66iw': 1}
+
+False Negative: Original Text: Aye now Meek may surprise us. You know when Jay-Z dropped Takeover they thought it was over for Nas. And then Ether...... -- Actual Label: positive 
+Extracted Features: {'aye': 1, 'now': 1, 'meek': 1, 'may': 1, 'surprise': 1, 'us': 1, 'you': 1, 'know': 1, 'when': 1, 'jayz': 1, 'dropped': 1, 'takeover': 1, 'they': 1, 'thought': 1, 'it': 1, 'was': 1, 'over': 1, 'for': 1, 'nas': 1, 'and': 1, 'then': 1, 'ether': 1}
+
+False Negative: Original Text: we need a  Fidel Castro in Kenya  to gear up a revolution against a corrupt regime and have better health reforms #DoctorsStrike . -- Actual Label: positive 
+Extracted Features: {'we': 1, 'need': 1, 'a': 1, 'fidel': 1, 'castro': 1, 'in': 1, 'kenya': 1, 'to': 1, 'gear': 1, 'up': 1, 'revolution': 1, 'against': 1, 'corrupt': 1, 'regime': 1, 'and': 1, 'have': 1, 'better': 1, 'health': 1, 'reforms': 1, 'doctorsstrike': 1}
+
+False Negative: Original Text: Took the day off work and treated babe to some Big Biscuit and saw Ant-Man. Some Monday's aren't too bad. -- Actual Label: positive 
+Extracted Features: {'took': 1, 'the': 1, 'day': 1, 'off': 1, 'work': 1, 'and': 1, 'treated': 1, 'babe': 1, 'to': 1, 'some': 1, 'big': 1, 'biscuit': 1, 'saw': 1, 'antman': 1, 'mondays': 1, 'arent': 1, 'too': 1, 'bad': 1}
+
+False Negative: Original Text: @Serious_Sound yeah that's wha I'm doing tomorrow. Your topic seems interesting as fuck. Lol my shit is on Malcolm X. But ima just -- Actual Label: positive 
+Extracted Features: {'serious_sound': 1, 'yeah': 1, 'thats': 1, 'wha': 1, 'im': 1, 'doing': 1, 'tomorrow': 1, 'your': 1, 'topic': 1, 'seems': 1, 'interesting': 1, 'as': 1, 'fuck': 1, 'lol': 1, 'my': 1, 'shit': 1, 'is': 1, 'on': 1, 'malcolm': 1, 'x': 1, 'but': 1, 'ima': 1, 'just': 1}
+
+False Negative: Original Text: Sony and Zeiss showdown! Announcement on Friday 11 is not just about camcorder and Otus! -- Actual Label: positive 
+Extracted Features: {'sony': 1, 'and': 1, 'zeiss': 1, 'showdown': 1, 'announcement': 1, 'on': 1, 'friday': 1, '11': 1, 'is': 1, 'not': 1, 'just': 1, 'about': 1, 'camcorder': 1, 'otus': 1}
+
+False Negative: Original Text: Found my Bernie soulmate 🙆🏻🐦 #NODAPL @ Dakota Access Pipeline Resistance Camp https://t.co/oOheD6wycx -- Actual Label: positive 
+Extracted Features: {'found': 1, 'my': 1, 'bernie': 1, 'soulmate': 1, 'nodapl': 1, 'dakota': 1, 'access': 1, 'pipeline': 1, 'resistance': 1, 'camp': 1, 'httpstcooohed6wycx': 1}
+
+False Negative: Original Text: Some good stuff going down in Gregory Gym. 2nd place tasted terrible, ready to have that GOLD around my neck! #goforgold -- Actual Label: positive 
+Extracted Features: {'some': 1, 'good': 1, 'stuff': 1, 'going': 1, 'down': 1, 'in': 1, 'gregory': 1, 'gym': 1, '2nd': 1, 'place': 1, 'tasted': 1, 'terrible': 1, 'ready': 1, 'to': 1, 'have': 1, 'that': 1, 'gold': 1, 'around': 1, 'my': 1, 'neck': 1, 'goforgold': 1}
+
+False Negative: Original Text: @SallySquirrel95 LOL! Schedule for today the 3rd of August: Visit Kim Hyung Jun's Birthday Party (G.O). Don't think so! xDDD -- Actual Label: positive 
+Extracted Features: {'sallysquirrel95': 1, 'lol': 1, 'schedule': 1, 'for': 1, 'today': 1, 'the': 1, '3rd': 1, 'of': 1, 'august': 1, 'visit': 1, 'kim': 1, 'hyung': 1, 'juns': 1, 'birthday': 1, 'party': 1, 'go': 1, 'dont': 1, 'think': 1, 'so': 1, 'xddd': 1}
+
+False Negative: Original Text: @KatVonTease420  Hmm I usually don't watch B/G shows but I may have to make an exception for something like that ;) -- Actual Label: positive 
+Extracted Features: {'katvontease420': 1, 'hmm': 1, 'i': 1, 'usually': 1, 'dont': 1, 'watch': 1, 'bg': 1, 'shows': 1, 'but': 1, 'may': 1, 'have': 1, 'to': 1, 'make': 1, 'an': 1, 'exception': 1, 'for': 1, 'something': 1, 'like': 1, 'that': 1}
+
+False Negative: Original Text: Thanksgiving, Christmas, St Patrick's Day, Memorial Day, and July 4th are the only good holidays. Every other one is stupid. -- Actual Label: positive 
+Extracted Features: {'thanksgiving': 1, 'christmas': 1, 'st': 1, 'patricks': 1, 'day': 1, 'memorial': 1, 'and': 1, 'july': 1, '4th': 1, 'are': 1, 'the': 1, 'only': 1, 'good': 1, 'holidays': 1, 'every': 1, 'other': 1, 'one': 1, 'is': 1, 'stupid': 1}
+
+False Negative: Original Text: Doing the stairs to the 4th floor of the Paley library will keep you in shape. #steep -- Actual Label: positive 
+Extracted Features: {'doing': 1, 'the': 1, 'stairs': 1, 'to': 1, '4th': 1, 'floor': 1, 'of': 1, 'paley': 1, 'library': 1, 'will': 1, 'keep': 1, 'you': 1, 'in': 1, 'shape': 1, 'steep': 1}
+
+False Negative: Original Text: @TomFoolery52 yes. I am the Remus Lupin of werebears. Just watch out at the next full moon. I may once again attempt to steal your honey... -- Actual Label: positive 
+Extracted Features: {'tomfoolery52': 1, 'yes': 1, 'i': 1, 'am': 1, 'the': 1, 'remus': 1, 'lupin': 1, 'of': 1, 'werebears': 1, 'just': 1, 'watch': 1, 'out': 1, 'at': 1, 'next': 1, 'full': 1, 'moon': 1, 'may': 1, 'once': 1, 'again': 1, 'attempt': 1, 'to': 1, 'steal': 1, 'your': 1, 'honey': 1}
+
+False Negative: Original Text: May the Billions Be With You... Lucas Sells Out or Cashes In?: LOS ANGELES, Calif. - In one of the biggest surprise... http://t.co/HiDC6Z3X -- Actual Label: positive 
+Extracted Features: {'may': 1, 'the': 1, 'billions': 1, 'be': 1, 'with': 1, 'you': 1, 'lucas': 1, 'sells': 1, 'out': 1, 'or': 1, 'cashes': 1, 'in': 1, 'los': 1, 'angeles': 1, 'calif': 1, 'one': 1, 'of': 1, 'biggest': 1, 'surprise': 1, 'httptcohidc6z3x': 1}
+
+False Negative: Original Text: This Sunday is Daylight Savings Time so you better not miss school the next day for missing the time setting party -- Actual Label: positive 
+Extracted Features: {'this': 1, 'sunday': 1, 'is': 1, 'daylight': 1, 'savings': 1, 'time': 1, 'so': 1, 'you': 1, 'better': 1, 'not': 1, 'miss': 1, 'school': 1, 'the': 1, 'next': 1, 'day': 1, 'for': 1, 'missing': 1, 'setting': 1, 'party': 1}
+
+False Negative: Original Text: Shaker is going to have school tomorrow. There's no doubt about that... The really question is, am I gonna go?? -- Actual Label: positive 
+Extracted Features: {'shaker': 1, 'is': 1, 'going': 1, 'to': 1, 'have': 1, 'school': 1, 'tomorrow': 1, 'theres': 1, 'no': 1, 'doubt': 1, 'about': 1, 'that': 1, 'the': 1, 'really': 1, 'question': 1, 'am': 1, 'i': 1, 'gonna': 1, 'go': 1}
+
+False Negative: Original Text: @WeAreFarmers Saw the @KaseyKahne #Firesuit commercial during the break, couldn't stop laughing. Saw it 1st at the Farmers display at LVMS. -- Actual Label: positive 
+Extracted Features: {'wearefarmers': 1, 'saw': 1, 'the': 1, 'kaseykahne': 1, 'firesuit': 1, 'commercial': 1, 'during': 1, 'break': 1, 'couldnt': 1, 'stop': 1, 'laughing': 1, 'it': 1, '1st': 1, 'at': 1, 'farmers': 1, 'display': 1, 'lvms': 1}
+
+False Negative: Original Text: Down to 2 at the final table. Merson and Sylvia. No shame for the kid Balsiger. 3rd place and $3.8 million is great for the 21 yr old. -- Actual Label: positive 
+Extracted Features: {'down': 1, 'to': 1, '2': 1, 'at': 1, 'the': 1, 'final': 1, 'table': 1, 'merson': 1, 'and': 1, 'sylvia': 1, 'no': 1, 'shame': 1, 'for': 1, 'kid': 1, 'balsiger': 1, '3rd': 1, 'place': 1, '38': 1, 'million': 1, 'is': 1, 'great': 1, '21': 1, 'yr': 1, 'old': 1}
+
+False Negative: Original Text: Don't hide under your desk! It's just a salsa bomb that we'll be dropping on the Metroplex tomorrow. Fresh salsa delivery imminent! #yum -- Actual Label: positive 
+Extracted Features: {'dont': 1, 'hide': 1, 'under': 1, 'your': 1, 'desk': 1, 'its': 1, 'just': 1, 'a': 1, 'salsa': 1, 'bomb': 1, 'that': 1, 'well': 1, 'be': 1, 'dropping': 1, 'on': 1, 'the': 1, 'metroplex': 1, 'tomorrow': 1, 'fresh': 1, 'delivery': 1, 'imminent': 1, 'yum': 1}
+
+False Negative: Original Text: @Mapher1 Internet came back Tuesday night. Still some Power out in the area but schools are back up and running -- Actual Label: positive 
+Extracted Features: {'mapher1': 1, 'internet': 1, 'came': 1, 'back': 1, 'tuesday': 1, 'night': 1, 'still': 1, 'some': 1, 'power': 1, 'out': 1, 'in': 1, 'the': 1, 'area': 1, 'but': 1, 'schools': 1, 'are': 1, 'up': 1, 'and': 1, 'running': 1}
+
+False Negative: Original Text: The Best and the Worst...: The best day of Willard Mitt Romney's life will be Thursday when after 7 years of cam...  http://t.co/sjiPN1qz -- Actual Label: positive 
+Extracted Features: {'the': 1, 'best': 1, 'and': 1, 'worst': 1, 'day': 1, 'of': 1, 'willard': 1, 'mitt': 1, 'romneys': 1, 'life': 1, 'will': 1, 'be': 1, 'thursday': 1, 'when': 1, 'after': 1, '7': 1, 'years': 1, 'cam': 1, 'httptcosjipn1qz': 1}
+
+False Negative: Original Text: @eldermars Easy to have a couple extra wins when BYU has played the 31st ranked schedule compared to Utah, who's played the 3rd. #Sagarin -- Actual Label: positive 
+Extracted Features: {'eldermars': 1, 'easy': 1, 'to': 1, 'have': 1, 'a': 1, 'couple': 1, 'extra': 1, 'wins': 1, 'when': 1, 'byu': 1, 'has': 1, 'played': 1, 'the': 1, '31st': 1, 'ranked': 1, 'schedule': 1, 'compared': 1, 'utah': 1, 'whos': 1, '3rd': 1, 'sagarin': 1}
+
+False Negative: Original Text: @the_bear_112 Oh my god! Nah man! Luckily its not until this Saturday :) Think someone said to me its the nickname for St Patricks Day? O.o -- Actual Label: positive 
+Extracted Features: {'the_bear_112': 1, 'oh': 1, 'my': 1, 'god': 1, 'nah': 1, 'man': 1, 'luckily': 1, 'its': 1, 'not': 1, 'until': 1, 'this': 1, 'saturday': 1, 'think': 1, 'someone': 1, 'said': 1, 'to': 1, 'me': 1, 'the': 1, 'nickname': 1, 'for': 1, 'st': 1, 'patricks': 1, 'day': 1, 'oo': 1}
+
+False Negative: Original Text: I love @best_coast. And if they're at SXSW in March I'm in the crowd screaming and being ignorant. -- Actual Label: positive 
+Extracted Features: {'i': 1, 'love': 1, 'best_coast': 1, 'and': 1, 'if': 1, 'theyre': 1, 'at': 1, 'sxsw': 1, 'in': 1, 'march': 1, 'im': 1, 'the': 1, 'crowd': 1, 'screaming': 1, 'being': 1, 'ignorant': 1}
+
+False Negative: Original Text: @marygopsstudios #WeezerJKT #ROCKSTARMARYLIVE Beverly Hills, that's where I want to be! But not on Jan 8th because I want to be in Lap. D! -- Actual Label: positive 
+Extracted Features: {'marygopsstudios': 1, 'weezerjkt': 1, 'rockstarmarylive': 1, 'beverly': 1, 'hills': 1, 'thats': 1, 'where': 1, 'i': 1, 'want': 1, 'to': 1, 'be': 1, 'but': 1, 'not': 1, 'on': 1, 'jan': 1, '8th': 1, 'because': 1, 'in': 1, 'lap': 1, 'd': 1}
+
+False Negative: Original Text: I wonder what alli Simpson would look like without all that make up on. C'mon she's 14 and wears all that make up. I mean it looks good.. -- Actual Label: positive 
+Extracted Features: {'i': 1, 'wonder': 1, 'what': 1, 'alli': 1, 'simpson': 1, 'would': 1, 'look': 1, 'like': 1, 'without': 1, 'all': 1, 'that': 1, 'make': 1, 'up': 1, 'on': 1, 'cmon': 1, 'shes': 1, '14': 1, 'and': 1, 'wears': 1, 'mean': 1, 'it': 1, 'looks': 1, 'good': 1}
+
+False Negative: Original Text: @TheScript_Danny @thescript - St Patricks Day with u guys on #Script3Tour Don't mind which is 1st/last as long as hear the amazin #I'm Yours -- Actual Label: positive 
+Extracted Features: {'thescript_danny': 1, 'thescript': 1, 'st': 1, 'patricks': 1, 'day': 1, 'with': 1, 'u': 1, 'guys': 1, 'on': 1, 'script3tour': 1, 'dont': 1, 'mind': 1, 'which': 1, 'is': 1, '1stlast': 1, 'as': 1, 'long': 1, 'hear': 1, 'the': 1, 'amazin': 1, 'im': 1, 'yours': 1}
+
+False Negative: Original Text: Oomf just made wish I had a half rite about now! #1st&3rd -- Actual Label: positive 
+Extracted Features: {'oomf': 1, 'just': 1, 'made': 1, 'wish': 1, 'i': 1, 'had': 1, 'a': 1, 'half': 1, 'rite': 1, 'about': 1, 'now': 1, '1st3rd': 1}
+
+False Negative: Original Text: Don't miss this opportunity to participate in the next round of Center Stage tours. Nominations due November 15.... http://t.co/2YjzIhTE -- Actual Label: positive 
+Extracted Features: {'dont': 1, 'miss': 1, 'this': 1, 'opportunity': 1, 'to': 1, 'participate': 1, 'in': 1, 'the': 1, 'next': 1, 'round': 1, 'of': 1, 'center': 1, 'stage': 1, 'tours': 1, 'nominations': 1, 'due': 1, 'november': 1, '15': 1, 'httptco2yjzihte': 1}
+
+False Negative: Original Text: @byrnekatelyn hahah, ugh.. you win this time, #igiveuppp what happens in iona, stays in ionaa! sooooo see yas saturday hahah? -- Actual Label: positive 
+Extracted Features: {'byrnekatelyn': 1, 'hahah': 1, 'ugh': 1, 'you': 1, 'win': 1, 'this': 1, 'time': 1, 'igiveuppp': 1, 'what': 1, 'happens': 1, 'in': 1, 'iona': 1, 'stays': 1, 'ionaa': 1, 'sooooo': 1, 'see': 1, 'yas': 1, 'saturday': 1}
+
+False Negative: Original Text: Tomorrow, Sylvia and Damien have my full attention. #StoryTime with @Rouge_Mort -- Actual Label: positive 
+Extracted Features: {'tomorrow': 1, 'sylvia': 1, 'and': 1, 'damien': 1, 'have': 1, 'my': 1, 'full': 1, 'attention': 1, 'storytime': 1, 'with': 1, 'rouge_mort': 1}
+
+False Negative: Original Text: S/O to @Hannahroehrigg ! I don't really know her but she seems real chill. She may not know how to spell Peyton Siva, but still follow her! -- Actual Label: positive 
+Extracted Features: {'so': 1, 'to': 1, 'hannahroehrigg': 1, 'i': 1, 'dont': 1, 'really': 1, 'know': 1, 'her': 1, 'but': 1, 'she': 1, 'seems': 1, 'real': 1, 'chill': 1, 'may': 1, 'not': 1, 'how': 1, 'spell': 1, 'peyton': 1, 'siva': 1, 'still': 1, 'follow': 1}
+
+False Negative: Original Text: I really want to hang out with oomf tomorrow -- Actual Label: positive 
+Extracted Features: {'i': 1, 'really': 1, 'want': 1, 'to': 1, 'hang': 1, 'out': 1, 'with': 1, 'oomf': 1, 'tomorrow': 1}
+
+False Negative: Original Text: One class tomorrow, done at 11 and then going home. Ready to witness an Oklahoma upset on Saturday! #cyclONEnation -- Actual Label: positive 
+Extracted Features: {'one': 1, 'class': 1, 'tomorrow': 1, 'done': 1, 'at': 1, '11': 1, 'and': 1, 'then': 1, 'going': 1, 'home': 1, 'ready': 1, 'to': 1, 'witness': 1, 'an': 1, 'oklahoma': 1, 'upset': 1, 'on': 1, 'saturday': 1, 'cyclonenation': 1}
+
+False Negative: Original Text: @IBGDRGN @Realtaeyang 1st time GD oppa praised VIPs in public,1st time other countries VIP jealous with M'sia VIP..and many many more... -- Actual Label: positive 
+Extracted Features: {'ibgdrgn': 1, 'realtaeyang': 1, '1st': 1, 'time': 1, 'gd': 1, 'oppa': 1, 'praised': 1, 'vips': 1, 'in': 1, 'public1st': 1, 'other': 1, 'countries': 1, 'vip': 1, 'jealous': 1, 'with': 1, 'msia': 1, 'vipand': 1, 'many': 1, 'more': 1}
+
+False Negative: Original Text: Story: The Houstons premieres tonight. Bobbi Kristina, who may or may NOT have gotten engaged to her brother. <- Cats outta the bag #Engaged -- Actual Label: positive 
+Extracted Features: {'story': 1, 'the': 1, 'houstons': 1, 'premieres': 1, 'tonight': 1, 'bobbi': 1, 'kristina': 1, 'who': 1, 'may': 1, 'or': 1, 'not': 1, 'have': 1, 'gotten': 1, 'engaged': 1, 'to': 1, 'her': 1, 'brother': 1, 'cats': 1, 'outta': 1, 'bag': 1}
+
+False Negative: Original Text: I may or may not have gone all the way to Hot Springs just for this.. #noshamenogame #ilovefood http://t.co/eYtWMExJ -- Actual Label: positive 
+Extracted Features: {'i': 1, 'may': 1, 'or': 1, 'not': 1, 'have': 1, 'gone': 1, 'all': 1, 'the': 1, 'way': 1, 'to': 1, 'hot': 1, 'springs': 1, 'just': 1, 'for': 1, 'this': 1, 'noshamenogame': 1, 'ilovefood': 1, 'httptcoeytwmexj': 1}
+
+False Negative: Original Text: My mommy just said she'd give me $1,000 to go to Peru in March!!!! Whoo whoo whoo! -- Actual Label: positive 
+Extracted Features: {'my': 1, 'mommy': 1, 'just': 1, 'said': 1, 'shed': 1, 'give': 1, 'me': 1, '1000': 1, 'to': 1, 'go': 1, 'peru': 1, 'in': 1, 'march': 1, 'whoo': 1}
+
+False Negative: Original Text: Just found out my bro @RMueksch is going to be on ESPN2 Sat night for the Neb game!! Sad I can't see it, so you should watch it:) #bigdebute -- Actual Label: positive 
+Extracted Features: {'just': 1, 'found': 1, 'out': 1, 'my': 1, 'bro': 1, 'rmueksch': 1, 'is': 1, 'going': 1, 'to': 1, 'be': 1, 'on': 1, 'espn2': 1, 'sat': 1, 'night': 1, 'for': 1, 'the': 1, 'neb': 1, 'game': 1, 'sad': 1, 'i': 1, 'cant': 1, 'see': 1, 'it': 1, 'so': 1, 'you': 1, 'should': 1, 'watch': 1, 'bigdebute': 1}
+
+False Negative: Original Text: Just made a plot for a fan fic about How To Rock. It's gonna be called before gravity 5. I'll post it by Friday can't wait for u to read it. -- Actual Label: positive 
+Extracted Features: {'just': 1, 'made': 1, 'a': 1, 'plot': 1, 'for': 1, 'fan': 1, 'fic': 1, 'about': 1, 'how': 1, 'to': 1, 'rock': 1, 'its': 1, 'gonna': 1, 'be': 1, 'called': 1, 'before': 1, 'gravity': 1, '5': 1, 'ill': 1, 'post': 1, 'it': 1, 'by': 1, 'friday': 1, 'cant': 1, 'wait': 1, 'u': 1, 'read': 1}
+
+False Negative: Original Text: Best shit i heard all day ESPN SC NFL - Locked-out officials may return to field soon after positive negotiations, Chris Mortensen -- Actual Label: positive 
+Extracted Features: {'best': 1, 'shit': 1, 'i': 1, 'heard': 1, 'all': 1, 'day': 1, 'espn': 1, 'sc': 1, 'nfl': 1, 'lockedout': 1, 'officials': 1, 'may': 1, 'return': 1, 'to': 1, 'field': 1, 'soon': 1, 'after': 1, 'positive': 1, 'negotiations': 1, 'chris': 1, 'mortensen': 1}
+
+False Negative: Original Text: Omg! I just want to run my fingers thru Michael Easton's gorgeous hair! Watching Friday's #GH. -- Actual Label: positive 
+Extracted Features: {'omg': 1, 'i': 1, 'just': 1, 'want': 1, 'to': 1, 'run': 1, 'my': 1, 'fingers': 1, 'thru': 1, 'michael': 1, 'eastons': 1, 'gorgeous': 1, 'hair': 1, 'watching': 1, 'fridays': 1, 'gh': 1}
+
+False Negative: Original Text: Winter Jam coming up November 18th...TOBY MAC JUST ANNOUNCED AS HEADLINER! Only $10 at the door, no advance tickets needed! -- Actual Label: positive 
+Extracted Features: {'winter': 1, 'jam': 1, 'coming': 1, 'up': 1, 'november': 1, '18thtoby': 1, 'mac': 1, 'just': 1, 'announced': 1, 'as': 1, 'headliner': 1, 'only': 1, '10': 1, 'at': 1, 'the': 1, 'door': 1, 'no': 1, 'advance': 1, 'tickets': 1, 'needed': 1}
+
+False Negative: Original Text: Just got home & now watching the Cuse game from earlier. I AM WATCHING SYRACUSE BASKETBALL! Been waiting for this since March 24th. -- Actual Label: positive 
+Extracted Features: {'just': 1, 'got': 1, 'home': 1, 'now': 1, 'watching': 1, 'the': 1, 'cuse': 1, 'game': 1, 'from': 1, 'earlier': 1, 'i': 1, 'am': 1, 'syracuse': 1, 'basketball': 1, 'been': 1, 'waiting': 1, 'for': 1, 'this': 1, 'since': 1, 'march': 1, '24th': 1}
+
+False Negative: Original Text: @seekmagicblog no drink the world - not even tea - can beat the taste and feeling of a first few gulps of a 1st beer when you really want it -- Actual Label: positive 
+Extracted Features: {'seekmagicblog': 1, 'no': 1, 'drink': 1, 'the': 1, 'world': 1, 'not': 1, 'even': 1, 'tea': 1, 'can': 1, 'beat': 1, 'taste': 1, 'and': 1, 'feeling': 1, 'of': 1, 'a': 1, 'first': 1, 'few': 1, 'gulps': 1, '1st': 1, 'beer': 1, 'when': 1, 'you': 1, 'really': 1, 'want': 1, 'it': 1}
+
+False Negative: Original Text: Just been informed that I'm in the squad against the Bolton Wanderers International Academy on Monday.  Can't wait! #Standard -- Actual Label: positive 
+Extracted Features: {'just': 1, 'been': 1, 'informed': 1, 'that': 1, 'im': 1, 'in': 1, 'the': 1, 'squad': 1, 'against': 1, 'bolton': 1, 'wanderers': 1, 'international': 1, 'academy': 1, 'on': 1, 'monday': 1, 'cant': 1, 'wait': 1, 'standard': 1}
+
+False Negative: Original Text: I may be considering wearing my polka dot #48 shorts with the Knaus tee shirt in an attempt to stay cool today. #Lowes48 -- Actual Label: positive 
+Extracted Features: {'i': 1, 'may': 1, 'be': 1, 'considering': 1, 'wearing': 1, 'my': 1, 'polka': 1, 'dot': 1, '48': 1, 'shorts': 1, 'with': 1, 'the': 1, 'knaus': 1, 'tee': 1, 'shirt': 1, 'in': 1, 'an': 1, 'attempt': 1, 'to': 1, 'stay': 1, 'cool': 1, 'today': 1, 'lowes48': 1}
+
+False Negative: Original Text: UK vs SC game Sat at 7pm. Only on CBS College Sports. Channel 256 in the Preferred tier in Bremen&Brooks. Call 855-55-CABLE & upgrade! #fb -- Actual Label: positive 
+Extracted Features: {'uk': 1, 'vs': 1, 'sc': 1, 'game': 1, 'sat': 1, 'at': 1, '7pm': 1, 'only': 1, 'on': 1, 'cbs': 1, 'college': 1, 'sports': 1, 'channel': 1, '256': 1, 'in': 1, 'the': 1, 'preferred': 1, 'tier': 1, 'bremenbrooks': 1, 'call': 1, '85555cable': 1, 'upgrade': 1, 'fb': 1}
+
+False Negative: Original Text: @dianaanoann The days are getting shorter for sure, but we'll go into daylight savings this Sunday, i.e., no waking up in the dark! :-) -- Actual Label: positive 
+Extracted Features: {'dianaanoann': 1, 'the': 1, 'days': 1, 'are': 1, 'getting': 1, 'shorter': 1, 'for': 1, 'sure': 1, 'but': 1, 'well': 1, 'go': 1, 'into': 1, 'daylight': 1, 'savings': 1, 'this': 1, 'sunday': 1, 'ie': 1, 'no': 1, 'waking': 1, 'up': 1, 'in': 1, 'dark': 1}
+
+False Negative: Original Text: Forget league's Super Saturday, @cnn has Super Storm Sandy. Name aside the coverage has been first class -- Actual Label: positive 
+Extracted Features: {'forget': 1, 'leagues': 1, 'super': 1, 'saturday': 1, 'cnn': 1, 'has': 1, 'storm': 1, 'sandy': 1, 'name': 1, 'aside': 1, 'the': 1, 'coverage': 1, 'been': 1, 'first': 1, 'class': 1}
+
+False Negative: Original Text: As if @richardm56 is at centre point, may have to nip round the corner and stalk his fine ass #guiltypleasure -- Actual Label: positive 
+Extracted Features: {'as': 1, 'if': 1, 'richardm56': 1, 'is': 1, 'at': 1, 'centre': 1, 'point': 1, 'may': 1, 'have': 1, 'to': 1, 'nip': 1, 'round': 1, 'the': 1, 'corner': 1, 'and': 1, 'stalk': 1, 'his': 1, 'fine': 1, 'ass': 1, 'guiltypleasure': 1}
+
+False Negative: Original Text: Just back from pre-season. Legs are knackered. Now going to watch the  2nd leg of the Europa League Liverpool v FC Gomel.........!!!x -- Actual Label: positive 
+Extracted Features: {'just': 1, 'back': 1, 'from': 1, 'preseason': 1, 'legs': 1, 'are': 1, 'knackered': 1, 'now': 1, 'going': 1, 'to': 1, 'watch': 1, 'the': 1, '2nd': 1, 'leg': 1, 'of': 1, 'europa': 1, 'league': 1, 'liverpool': 1, 'v': 1, 'fc': 1, 'gomelx': 1}
+
+False Negative: Original Text: ...woah, Deezer. Babel only came out on Monday, can you leave it up for longer than a day to give slow people like me a chance? -- Actual Label: positive 
+Extracted Features: {'woah': 1, 'deezer': 1, 'babel': 1, 'only': 1, 'came': 1, 'out': 1, 'on': 1, 'monday': 1, 'can': 1, 'you': 1, 'leave': 1, 'it': 1, 'up': 1, 'for': 1, 'longer': 1, 'than': 1, 'a': 1, 'day': 1, 'to': 1, 'give': 1, 'slow': 1, 'people': 1, 'like': 1, 'me': 1, 'chance': 1}
+
+False Negative: Original Text: @tara_smiles Not bad. I think Cena will wear the green merch for 2 weeks after tomorrow. We will get new swag at Survivor Series. -- Actual Label: positive 
+Extracted Features: {'tara_smiles': 1, 'not': 1, 'bad': 1, 'i': 1, 'think': 1, 'cena': 1, 'will': 1, 'wear': 1, 'the': 1, 'green': 1, 'merch': 1, 'for': 1, '2': 1, 'weeks': 1, 'after': 1, 'tomorrow': 1, 'we': 1, 'get': 1, 'new': 1, 'swag': 1, 'at': 1, 'survivor': 1, 'series': 1}
+
+False Negative: Original Text: Day 3 of PSSAs (state tests for 11th grade). Test questions and sci scenarios vary greatly; shouldn't they be taking the same exam? #pssa -- Actual Label: positive 
+Extracted Features: {'day': 1, '3': 1, 'of': 1, 'pssas': 1, 'state': 1, 'tests': 1, 'for': 1, '11th': 1, 'grade': 1, 'test': 1, 'questions': 1, 'and': 1, 'sci': 1, 'scenarios': 1, 'vary': 1, 'greatly': 1, 'shouldnt': 1, 'they': 1, 'be': 1, 'taking': 1, 'the': 1, 'same': 1, 'exam': 1, 'pssa': 1}
+
+False Negative: Original Text: Interactive TV may be the next big thing, but what are your real life thoughts on Apple TV? #iwishitwerebetter...shhh http://t.co/rXIvyAwC -- Actual Label: positive 
+Extracted Features: {'interactive': 1, 'tv': 1, 'may': 1, 'be': 1, 'the': 1, 'next': 1, 'big': 1, 'thing': 1, 'but': 1, 'what': 1, 'are': 1, 'your': 1, 'real': 1, 'life': 1, 'thoughts': 1, 'on': 1, 'apple': 1, 'iwishitwerebettershhh': 1, 'httptcorxivyawc': 1}
+
+False Negative: Original Text: @GotMalkin tickets are cheap at least. And c'mon, you don't get that many chances to see and possibly meet Mario Lemieux -- Actual Label: positive 
+Extracted Features: {'gotmalkin': 1, 'tickets': 1, 'are': 1, 'cheap': 1, 'at': 1, 'least': 1, 'and': 1, 'cmon': 1, 'you': 1, 'dont': 1, 'get': 1, 'that': 1, 'many': 1, 'chances': 1, 'to': 1, 'see': 1, 'possibly': 1, 'meet': 1, 'mario': 1, 'lemieux': 1}
+
+False Negative: Original Text: @mg_indy Reggie Wayne got rocked at the goalline Sunday & the other team tried to help him up & he wouldn't let them. Thats what I wanna see -- Actual Label: positive 
+Extracted Features: {'mg_indy': 1, 'reggie': 1, 'wayne': 1, 'got': 1, 'rocked': 1, 'at': 1, 'the': 1, 'goalline': 1, 'sunday': 1, 'other': 1, 'team': 1, 'tried': 1, 'to': 1, 'help': 1, 'him': 1, 'up': 1, 'he': 1, 'wouldnt': 1, 'let': 1, 'them': 1, 'thats': 1, 'what': 1, 'i': 1, 'wanna': 1, 'see': 1}
+
+False Negative: Original Text: @TheScript_Danny @thescript - St Patricks Day with u guys on #Script3Tour Don't mind which is 1st/last as long as hear the amazin ~I'm Yours -- Actual Label: positive 
+Extracted Features: {'thescript_danny': 1, 'thescript': 1, 'st': 1, 'patricks': 1, 'day': 1, 'with': 1, 'u': 1, 'guys': 1, 'on': 1, 'script3tour': 1, 'dont': 1, 'mind': 1, 'which': 1, 'is': 1, '1stlast': 1, 'as': 1, 'long': 1, 'hear': 1, 'the': 1, 'amazin': 1, 'im': 1, 'yours': 1}
+
+False Negative: Original Text: Miles just hit a 3, matched by Gerald Green...Indy is a deep team...good test for Cavs tonight...down 3 half way thru 2nd..Waiters returning -- Actual Label: positive 
+Extracted Features: {'miles': 1, 'just': 1, 'hit': 1, 'a': 1, '3': 1, 'matched': 1, 'by': 1, 'gerald': 1, 'greenindy': 1, 'is': 1, 'deep': 1, 'teamgood': 1, 'test': 1, 'for': 1, 'cavs': 1, 'tonightdown': 1, 'half': 1, 'way': 1, 'thru': 1, '2ndwaiters': 1, 'returning': 1}
+
+False Negative: Original Text: Why Mulayam Singh Yadav's Samajwadi Party may not dump the Congress after all -- Actual Label: positive 
+Extracted Features: {'why': 1, 'mulayam': 1, 'singh': 1, 'yadavs': 1, 'samajwadi': 1, 'party': 1, 'may': 1, 'not': 1, 'dump': 1, 'the': 1, 'congress': 1, 'after': 1, 'all': 1}
+
+False Negative: Original Text: Ya i was wondering wha that was lolRT @DavidWildWest: So I may have just seen a UFO. anyone else in Mboro see those crazy lights in the sky? -- Actual Label: positive 
+Extracted Features: {'ya': 1, 'i': 1, 'was': 1, 'wondering': 1, 'wha': 1, 'that': 1, 'lolrt': 1, 'davidwildwest': 1, 'so': 1, 'may': 1, 'have': 1, 'just': 1, 'seen': 1, 'a': 1, 'ufo': 1, 'anyone': 1, 'else': 1, 'in': 1, 'mboro': 1, 'see': 1, 'those': 1, 'crazy': 1, 'lights': 1, 'the': 1, 'sky': 1}
+
+False Negative: Original Text: There's a Possibility I'll be Decked out in Mint Neko Tomorrow. Either with Cardigan or Parka. ;) -- Actual Label: positive 
+Extracted Features: {'theres': 1, 'a': 1, 'possibility': 1, 'ill': 1, 'be': 1, 'decked': 1, 'out': 1, 'in': 1, 'mint': 1, 'neko': 1, 'tomorrow': 1, 'either': 1, 'with': 1, 'cardigan': 1, 'or': 1, 'parka': 1}
+
+False Negative: Original Text: @DannycatedLover @AmyAnneTurner @annahades @gealingeman I think that the 2nd place on Melodifestivalen gives the points on Eurovision! ;) -- Actual Label: positive 
+Extracted Features: {'dannycatedlover': 1, 'amyanneturner': 1, 'annahades': 1, 'gealingeman': 1, 'i': 1, 'think': 1, 'that': 1, 'the': 1, '2nd': 1, 'place': 1, 'on': 1, 'melodifestivalen': 1, 'gives': 1, 'points': 1, 'eurovision': 1}
+
+False Negative: Original Text: I'm just waiting until Thursday. I won't be at school. I'll be at the Smith Center the entire day. FUCK YEAHHHH -- Actual Label: positive 
+Extracted Features: {'im': 1, 'just': 1, 'waiting': 1, 'until': 1, 'thursday': 1, 'i': 1, 'wont': 1, 'be': 1, 'at': 1, 'school': 1, 'ill': 1, 'the': 1, 'smith': 1, 'center': 1, 'entire': 1, 'day': 1, 'fuck': 1, 'yeahhhh': 1}
+
+False Negative: Original Text: @CraigSpratt Yeh it's a joke. May as well make Crufts an Olympic event too if this counts as one... -- Actual Label: positive 
+Extracted Features: {'craigspratt': 1, 'yeh': 1, 'its': 1, 'a': 1, 'joke': 1, 'may': 1, 'as': 1, 'well': 1, 'make': 1, 'crufts': 1, 'an': 1, 'olympic': 1, 'event': 1, 'too': 1, 'if': 1, 'this': 1, 'counts': 1, 'one': 1}
+
+False Negative: Original Text: Biggie Smalls sounds SO good 1st thing in the morn. Still tired but in a much better mood. *throw hands in the air, like I'm a true playa* -- Actual Label: positive 
+Extracted Features: {'biggie': 1, 'smalls': 1, 'sounds': 1, 'so': 1, 'good': 1, '1st': 1, 'thing': 1, 'in': 1, 'the': 1, 'morn': 1, 'still': 1, 'tired': 1, 'but': 1, 'a': 1, 'much': 1, 'better': 1, 'mood': 1, 'throw': 1, 'hands': 1, 'air': 1, 'like': 1, 'im': 1, 'true': 1, 'playa': 1}
+
+False Negative: Original Text: The spurs may have won the battle, but not the war! -- Actual Label: positive 
+Extracted Features: {'the': 1, 'spurs': 1, 'may': 1, 'have': 1, 'won': 1, 'battle': 1, 'but': 1, 'not': 1, 'war': 1}
+
+False Negative: Original Text: Idk bout your Saturday but damn mine was the shit...and I didn't even got to Jouvert -- Actual Label: positive 
+Extracted Features: {'idk': 1, 'bout': 1, 'your': 1, 'saturday': 1, 'but': 1, 'damn': 1, 'mine': 1, 'was': 1, 'the': 1, 'shitand': 1, 'i': 1, 'didnt': 1, 'even': 1, 'got': 1, 'to': 1, 'jouvert': 1}
+
+False Negative: Original Text: That's the 2nd time a Korean girl gave me her number... at UMBC! The first one was @teenheartthrobs . #IDoWellWithTheGeishas -- Actual Label: positive 
+Extracted Features: {'thats': 1, 'the': 1, '2nd': 1, 'time': 1, 'a': 1, 'korean': 1, 'girl': 1, 'gave': 1, 'me': 1, 'her': 1, 'number': 1, 'at': 1, 'umbc': 1, 'first': 1, 'one': 1, 'was': 1, 'teenheartthrobs': 1, 'idowellwiththegeishas': 1}
+
+False Negative: Original Text: Now here is where conservative Arabs and conservative Jews may come to terms.  Abortion.  The Gaza strip may solve it all by itself. -- Actual Label: positive 
+Extracted Features: {'now': 1, 'here': 1, 'is': 1, 'where': 1, 'conservative': 1, 'arabs': 1, 'and': 1, 'jews': 1, 'may': 1, 'come': 1, 'to': 1, 'terms': 1, 'abortion': 1, 'the': 1, 'gaza': 1, 'strip': 1, 'solve': 1, 'it': 1, 'all': 1, 'by': 1, 'itself': 1}
+
+False Negative: Original Text: Get ready for Jouvert on the road in Miami on Sat Oct 6th Central Broward Regional Park hosted by Miami Broward one Host carnival -- Actual Label: positive 
+Extracted Features: {'get': 1, 'ready': 1, 'for': 1, 'jouvert': 1, 'on': 1, 'the': 1, 'road': 1, 'in': 1, 'miami': 1, 'sat': 1, 'oct': 1, '6th': 1, 'central': 1, 'broward': 1, 'regional': 1, 'park': 1, 'hosted': 1, 'by': 1, 'one': 1, 'host': 1, 'carnival': 1}
+
+False Negative: Original Text: Fly Madness: William Hill now 5/4 (real price is 4/6) about Hurricane Fly wins Champion Hurdle next Tuesday. -- Actual Label: positive 
+Extracted Features: {'fly': 1, 'madness': 1, 'william': 1, 'hill': 1, 'now': 1, '54': 1, 'real': 1, 'price': 1, 'is': 1, '46': 1, 'about': 1, 'hurricane': 1, 'wins': 1, 'champion': 1, 'hurdle': 1, 'next': 1, 'tuesday': 1}
+
+False Negative: Original Text: It ends in a draw. NU gives itself a chance for a share of the Big Ten title should Michigan State lose on Saturday #B1GCats -- Actual Label: positive 
+Extracted Features: {'it': 1, 'ends': 1, 'in': 1, 'a': 1, 'draw': 1, 'nu': 1, 'gives': 1, 'itself': 1, 'chance': 1, 'for': 1, 'share': 1, 'of': 1, 'the': 1, 'big': 1, 'ten': 1, 'title': 1, 'should': 1, 'michigan': 1, 'state': 1, 'lose': 1, 'on': 1, 'saturday': 1, 'b1gcats': 1}
+
+False Negative: Original Text: Her is a Chevy Spark in Dons favorite color.  I may joke, but this color sells out as soon as the dealer gets... http://t.co/kLn7KSdr -- Actual Label: positive 
+Extracted Features: {'her': 1, 'is': 1, 'a': 1, 'chevy': 1, 'spark': 1, 'in': 1, 'dons': 1, 'favorite': 1, 'color': 1, 'i': 1, 'may': 1, 'joke': 1, 'but': 1, 'this': 1, 'sells': 1, 'out': 1, 'as': 1, 'soon': 1, 'the': 1, 'dealer': 1, 'gets': 1, 'httptcokln7ksdr': 1}
+
+False Negative: Original Text: Rahul Dravid <3 You may not be in the National Team; But you are always in our National Anthem.   Like | Tag... http://t.co/YpWA4uSJ -- Actual Label: positive 
+Extracted Features: {'rahul': 1, 'dravid': 1, '3': 1, 'you': 1, 'may': 1, 'not': 1, 'be': 1, 'in': 1, 'the': 1, 'national': 1, 'team': 1, 'but': 1, 'are': 1, 'always': 1, 'our': 1, 'anthem': 1, 'like': 1, 'tag': 1, 'httptcoypwa4usj': 1}
+
+False Negative: Original Text: IRG may be laughing all the way to the bank but USAID has done next to zilch for Pakistani power consumers. http://t.co/jKZ4XbeA -- Actual Label: positive 
+Extracted Features: {'irg': 1, 'may': 1, 'be': 1, 'laughing': 1, 'all': 1, 'the': 1, 'way': 1, 'to': 1, 'bank': 1, 'but': 1, 'usaid': 1, 'has': 1, 'done': 1, 'next': 1, 'zilch': 1, 'for': 1, 'pakistani': 1, 'power': 1, 'consumers': 1, 'httptcojkz4xbea': 1}
+
+False Negative: Original Text: Just because the sun isn't out doesn't mean you can't get your tan on ! Come by Hollywood Tans and check out the specials !!!! -- Actual Label: positive 
+Extracted Features: {'just': 1, 'because': 1, 'the': 1, 'sun': 1, 'isnt': 1, 'out': 1, 'doesnt': 1, 'mean': 1, 'you': 1, 'cant': 1, 'get': 1, 'your': 1, 'tan': 1, 'on': 1, 'come': 1, 'by': 1, 'hollywood': 1, 'tans': 1, 'and': 1, 'check': 1, 'specials': 1}
+
+False Negative: Original Text: Another tough win for us today! Never been in the semi's in BNP Paribas Open! Next match on Thursday :-) -- Actual Label: positive 
+Extracted Features: {'another': 1, 'tough': 1, 'win': 1, 'for': 1, 'us': 1, 'today': 1, 'never': 1, 'been': 1, 'in': 1, 'the': 1, 'semis': 1, 'bnp': 1, 'paribas': 1, 'open': 1, 'next': 1, 'match': 1, 'on': 1, 'thursday': 1}
+
+False Negative: Original Text: @MezaJudy thats it, I'm calling you out. we're gonna fight. be at calle 116 at 9:55 pm on friday, if you don't show then i win by default. -- Actual Label: positive 
+Extracted Features: {'mezajudy': 1, 'thats': 1, 'it': 1, 'im': 1, 'calling': 1, 'you': 1, 'out': 1, 'were': 1, 'gonna': 1, 'fight': 1, 'be': 1, 'at': 1, 'calle': 1, '116': 1, '955': 1, 'pm': 1, 'on': 1, 'friday': 1, 'if': 1, 'dont': 1, 'show': 1, 'then': 1, 'i': 1, 'win': 1, 'by': 1, 'default': 1}
+
+False Negative: Original Text: Mark Cuban: Apple TV Is a Pipe Dream And why the HDNet founder thinks that may be a good thing (Mike Shields/Adw... http://t.co/L0ebf8hC -- Actual Label: positive 
+Extracted Features: {'mark': 1, 'cuban': 1, 'apple': 1, 'tv': 1, 'is': 1, 'a': 1, 'pipe': 1, 'dream': 1, 'and': 1, 'why': 1, 'the': 1, 'hdnet': 1, 'founder': 1, 'thinks': 1, 'that': 1, 'may': 1, 'be': 1, 'good': 1, 'thing': 1, 'mike': 1, 'shieldsadw': 1, 'httptcol0ebf8hc': 1}
+
+False Negative: Original Text: James Meredith on this 30 for 30... The 1st black student at Ole Miss... Well... Thats the definition of a real nigga w/ balls. -- Actual Label: positive 
+Extracted Features: {'james': 1, 'meredith': 1, 'on': 1, 'this': 1, '30': 1, 'for': 1, 'the': 1, '1st': 1, 'black': 1, 'student': 1, 'at': 1, 'ole': 1, 'miss': 1, 'well': 1, 'thats': 1, 'definition': 1, 'of': 1, 'a': 1, 'real': 1, 'nigga': 1, 'w': 1, 'balls': 1}
+
+False Negative: Original Text: Return of Chicago's beloved son, Derrick Rose, will be February 28 at home v 76ers. Same team same floor. 1 day before 10 months #justaguess -- Actual Label: positive 
+Extracted Features: {'return': 1, 'of': 1, 'chicagos': 1, 'beloved': 1, 'son': 1, 'derrick': 1, 'rose': 1, 'will': 1, 'be': 1, 'february': 1, '28': 1, 'at': 1, 'home': 1, 'v': 1, '76ers': 1, 'same': 1, 'team': 1, 'floor': 1, '1': 1, 'day': 1, 'before': 1, '10': 1, 'months': 1, 'justaguess': 1}
+
+False Negative: Original Text: Ok, can anyone answer if when 1D will come to the Philippines? Cause my cousin told me this dec. 21 and shes not sure. Please answer me.. -- Actual Label: positive 
+Extracted Features: {'ok': 1, 'can': 1, 'anyone': 1, 'answer': 1, 'if': 1, 'when': 1, '1d': 1, 'will': 1, 'come': 1, 'to': 1, 'the': 1, 'philippines': 1, 'cause': 1, 'my': 1, 'cousin': 1, 'told': 1, 'me': 1, 'this': 1, 'dec': 1, '21': 1, 'and': 1, 'shes': 1, 'not': 1, 'sure': 1, 'please': 1}
+
+False Negative: Original Text: Tony Parker may have hit the game winning shot but Mark Sanchez is coming through clutch for Eva Longoria right now. #Swish -- Actual Label: positive 
+Extracted Features: {'tony': 1, 'parker': 1, 'may': 1, 'have': 1, 'hit': 1, 'the': 1, 'game': 1, 'winning': 1, 'shot': 1, 'but': 1, 'mark': 1, 'sanchez': 1, 'is': 1, 'coming': 1, 'through': 1, 'clutch': 1, 'for': 1, 'eva': 1, 'longoria': 1, 'right': 1, 'now': 1, 'swish': 1}
+
+False Negative: Original Text: @annargh Unfortunately, not yet. Wanted to go to Revenge at Paleyfest in March, but couldn't make it. Hopefully soon. So happy for you! :) -- Actual Label: positive 
+Extracted Features: {'annargh': 1, 'unfortunately': 1, 'not': 1, 'yet': 1, 'wanted': 1, 'to': 1, 'go': 1, 'revenge': 1, 'at': 1, 'paleyfest': 1, 'in': 1, 'march': 1, 'but': 1, 'couldnt': 1, 'make': 1, 'it': 1, 'hopefully': 1, 'soon': 1, 'so': 1, 'happy': 1, 'for': 1, 'you': 1}
+
+False Negative: Original Text: St. Patrick's gaa are doing a fundraising clothes collection day on Nov 13th if you want to get rid of any old clothes give me a call. -- Actual Label: positive 
+Extracted Features: {'st': 1, 'patricks': 1, 'gaa': 1, 'are': 1, 'doing': 1, 'a': 1, 'fundraising': 1, 'clothes': 1, 'collection': 1, 'day': 1, 'on': 1, 'nov': 1, '13th': 1, 'if': 1, 'you': 1, 'want': 1, 'to': 1, 'get': 1, 'rid': 1, 'of': 1, 'any': 1, 'old': 1, 'give': 1, 'me': 1, 'call': 1}
+
+False Negative: Original Text: Sitting here with @LaydeeMarz nancy , Kini , nene lai and mar and Levi ! CRACKING UP SO LOUD ! We got told off -- Actual Label: positive 
+Extracted Features: {'sitting': 1, 'here': 1, 'with': 1, 'laydeemarz': 1, 'nancy': 1, 'kini': 1, 'nene': 1, 'lai': 1, 'and': 1, 'mar': 1, 'levi': 1, 'cracking': 1, 'up': 1, 'so': 1, 'loud': 1, 'we': 1, 'got': 1, 'told': 1, 'off': 1}
+
+False Negative: Original Text: Check http://t.co/xiyAwvwt for all the reaction to Saturday's 2-1 win over Bolton Wanderers #Millwall -- Actual Label: positive 
+Extracted Features: {'check': 1, 'httptcoxiyawvwt': 1, 'for': 1, 'all': 1, 'the': 1, 'reaction': 1, 'to': 1, 'saturdays': 1, '21': 1, 'win': 1, 'over': 1, 'bolton': 1, 'wanderers': 1, 'millwall': 1}
+
+False Negative: Original Text: Just thought about the fact that I'm now a Junior. PSAT, PSSA, SAT's, Benchmarks, Benchmarks, Homework and, Prom. Wow. #Classof2014 -- Actual Label: positive 
+Extracted Features: {'just': 1, 'thought': 1, 'about': 1, 'the': 1, 'fact': 1, 'that': 1, 'im': 1, 'now': 1, 'a': 1, 'junior': 1, 'psat': 1, 'pssa': 1, 'sats': 1, 'benchmarks': 1, 'homework': 1, 'and': 1, 'prom': 1, 'wow': 1, 'classof2014': 1}
+
+False Negative: Original Text: Wednesday's NFL notebook: Broncos' Peyton Manning says his injured thumb is OK: The tape didn't wrap all the way... http://t.co/AnIZjsvG -- Actual Label: positive 
+Extracted Features: {'wednesdays': 1, 'nfl': 1, 'notebook': 1, 'broncos': 1, 'peyton': 1, 'manning': 1, 'says': 1, 'his': 1, 'injured': 1, 'thumb': 1, 'is': 1, 'ok': 1, 'the': 1, 'tape': 1, 'didnt': 1, 'wrap': 1, 'all': 1, 'way': 1, 'httptcoanizjsvg': 1}
+
+False Negative: Original Text: I'm pretty sure it's Wacky Wednesday at MSA right now.... I actually want that right now, except without the 'MSA' part #happyhalloween -- Actual Label: positive 
+Extracted Features: {'im': 1, 'pretty': 1, 'sure': 1, 'its': 1, 'wacky': 1, 'wednesday': 1, 'at': 1, 'msa': 1, 'right': 1, 'now': 1, 'i': 1, 'actually': 1, 'want': 1, 'that': 1, 'except': 1, 'without': 1, 'the': 1, 'part': 1, 'happyhalloween': 1}
+
+False Negative: Original Text: http://t.co/OhAZGAsn is AWESOOMEEE! I got laid last night bc of it #Followfriday Kings -- Actual Label: positive 
+Extracted Features: {'httptcoohazgasn': 1, 'is': 1, 'awesoomeee': 1, 'i': 1, 'got': 1, 'laid': 1, 'last': 1, 'night': 1, 'bc': 1, 'of': 1, 'it': 1, 'followfriday': 1, 'kings': 1}
+
+False Negative: Original Text: They have some really creative things going on at Tapanco (Calle 68 and 47). For instance, this concert tomorrow... http://t.co/Is0Vr4Cu -- Actual Label: positive 
+Extracted Features: {'they': 1, 'have': 1, 'some': 1, 'really': 1, 'creative': 1, 'things': 1, 'going': 1, 'on': 1, 'at': 1, 'tapanco': 1, 'calle': 1, '68': 1, 'and': 1, '47': 1, 'for': 1, 'instance': 1, 'this': 1, 'concert': 1, 'tomorrow': 1, 'httptcois0vr4cu': 1}
+
+False Negative: Original Text: excited for fri,not so i can get smashed but so i can go to the garden centre,look at the xmas display and have a coffee #wtf #grannyalert -- Actual Label: positive 
+Extracted Features: {'excited': 1, 'for': 1, 'frinot': 1, 'so': 1, 'i': 1, 'can': 1, 'get': 1, 'smashed': 1, 'but': 1, 'go': 1, 'to': 1, 'the': 1, 'garden': 1, 'centrelook': 1, 'at': 1, 'xmas': 1, 'display': 1, 'and': 1, 'have': 1, 'a': 1, 'coffee': 1, 'wtf': 1, 'grannyalert': 1}
+
+False Negative: Original Text: Dhoni's 1st ball leave must make even Rahul Dravid proud. #IndvsAus -- Actual Label: positive 
+Extracted Features: {'dhonis': 1, '1st': 1, 'ball': 1, 'leave': 1, 'must': 1, 'make': 1, 'even': 1, 'rahul': 1, 'dravid': 1, 'proud': 1, 'indvsaus': 1}
+
+False Negative: Original Text: A rumor popped out about an @Eminem concert in Kyiv this February. I wonder how true that is. I'm so going if it's true, though. -- Actual Label: positive 
+Extracted Features: {'a': 1, 'rumor': 1, 'popped': 1, 'out': 1, 'about': 1, 'an': 1, 'eminem': 1, 'concert': 1, 'in': 1, 'kyiv': 1, 'this': 1, 'february': 1, 'i': 1, 'wonder': 1, 'how': 1, 'true': 1, 'that': 1, 'is': 1, 'im': 1, 'so': 1, 'going': 1, 'if': 1, 'its': 1, 'though': 1}
+
+False Negative: Original Text: We also provided Prepix and the managers with a common Korean energy drink. Hopefully it'll awaken them a little tomorrow! -- Actual Label: positive 
+Extracted Features: {'we': 1, 'also': 1, 'provided': 1, 'prepix': 1, 'and': 1, 'the': 1, 'managers': 1, 'with': 1, 'a': 1, 'common': 1, 'korean': 1, 'energy': 1, 'drink': 1, 'hopefully': 1, 'itll': 1, 'awaken': 1, 'them': 1, 'little': 1, 'tomorrow': 1}
+
+False Negative: Original Text: Happy 13th Bday to my nephew Sean Parker II!  Auntie loves you Grandpa -- Actual Label: positive 
+Extracted Features: {'happy': 1, '13th': 1, 'bday': 1, 'to': 1, 'my': 1, 'nephew': 1, 'sean': 1, 'parker': 1, 'ii': 1, 'auntie': 1, 'loves': 1, 'you': 1, 'grandpa': 1}
+
+False Negative: Original Text: (Unwired View) Samsung SCH-S759 with Windows Phone gets Wi-Fi, Bluetooth certified, may be headed to China Telecom http://t.co/dehpvlDN -- Actual Label: positive 
+Extracted Features: {'unwired': 1, 'view': 1, 'samsung': 1, 'schs759': 1, 'with': 1, 'windows': 1, 'phone': 1, 'gets': 1, 'wifi': 1, 'bluetooth': 1, 'certified': 1, 'may': 1, 'be': 1, 'headed': 1, 'to': 1, 'china': 1, 'telecom': 1, 'httptcodehpvldn': 1}
+
+False Negative: Original Text: So, @ChuckRagan in Helsinki tonight with the #RevivalTour, and he has a birthday! Sounds like a killer combination. Too bad its Tuesday. -- Actual Label: positive 
+Extracted Features: {'so': 1, 'chuckragan': 1, 'in': 1, 'helsinki': 1, 'tonight': 1, 'with': 1, 'the': 1, 'revivaltour': 1, 'and': 1, 'he': 1, 'has': 1, 'a': 1, 'birthday': 1, 'sounds': 1, 'like': 1, 'killer': 1, 'combination': 1, 'too': 1, 'bad': 1, 'its': 1, 'tuesday': 1}
+
+False Negative: Original Text: Lovatics loves Demi. some Lovatics bullying other fans because they spelt a word wrong, it's not their 1st language? Bullying? Wow. Just wow -- Actual Label: positive 
+Extracted Features: {'lovatics': 1, 'loves': 1, 'demi': 1, 'some': 1, 'bullying': 1, 'other': 1, 'fans': 1, 'because': 1, 'they': 1, 'spelt': 1, 'a': 1, 'word': 1, 'wrong': 1, 'its': 1, 'not': 1, 'their': 1, '1st': 1, 'language': 1, 'wow': 1, 'just': 1}
+
+False Negative: Original Text: The Cab is playing on XM and I may or may not have just started flailing. -- Actual Label: positive 
+Extracted Features: {'the': 1, 'cab': 1, 'is': 1, 'playing': 1, 'on': 1, 'xm': 1, 'and': 1, 'i': 1, 'may': 1, 'or': 1, 'not': 1, 'have': 1, 'just': 1, 'started': 1, 'flailing': 1}
+
+False Negative: Original Text: Have never been happier to be home with heat, cable and Internet. See ya on Sunday BW -- Actual Label: positive 
+Extracted Features: {'have': 1, 'never': 1, 'been': 1, 'happier': 1, 'to': 1, 'be': 1, 'home': 1, 'with': 1, 'heat': 1, 'cable': 1, 'and': 1, 'internet': 1, 'see': 1, 'ya': 1, 'on': 1, 'sunday': 1, 'bw': 1}
+
+False Negative: Original Text: Mark Cuban: Apple TV Is a Pipe Dream And why the HDNet founder thinks that may be a good thing (Mike Shields/Adweek) - http://t.co/ZdkoqDfe -- Actual Label: positive 
+Extracted Features: {'mark': 1, 'cuban': 1, 'apple': 1, 'tv': 1, 'is': 1, 'a': 1, 'pipe': 1, 'dream': 1, 'and': 1, 'why': 1, 'the': 1, 'hdnet': 1, 'founder': 1, 'thinks': 1, 'that': 1, 'may': 1, 'be': 1, 'good': 1, 'thing': 1, 'mike': 1, 'shieldsadweek': 1, 'httptcozdkoqdfe': 1}
+
+False Negative: Original Text: @WNSource more interested in a possible Cena vs Ziggler match! more annoyed Ziggler didnt even wrestle tonight or on Smackdown Friday -- Actual Label: positive 
+Extracted Features: {'wnsource': 1, 'more': 1, 'interested': 1, 'in': 1, 'a': 1, 'possible': 1, 'cena': 1, 'vs': 1, 'ziggler': 1, 'match': 1, 'annoyed': 1, 'didnt': 1, 'even': 1, 'wrestle': 1, 'tonight': 1, 'or': 1, 'on': 1, 'smackdown': 1, 'friday': 1}
+
+False Negative: Original Text: I know you're not meant to have favourite students, but one of my favourite 12th Graders just gave me another rose for Women's Day >.< -- Actual Label: positive 
+Extracted Features: {'i': 1, 'know': 1, 'youre': 1, 'not': 1, 'meant': 1, 'to': 1, 'have': 1, 'favourite': 1, 'students': 1, 'but': 1, 'one': 1, 'of': 1, 'my': 1, '12th': 1, 'graders': 1, 'just': 1, 'gave': 1, 'me': 1, 'another': 1, 'rose': 1, 'for': 1, 'womens': 1, 'day': 1}
+
+False Negative: Original Text: @__wilo___ I want her so bad...... ohhh, in Melodifestivalen you mean? Yes yes, but that will never happen. Netherlands was 15th :') -- Actual Label: positive 
+Extracted Features: {'__wilo___': 1, 'i': 1, 'want': 1, 'her': 1, 'so': 1, 'bad': 1, 'ohhh': 1, 'in': 1, 'melodifestivalen': 1, 'you': 1, 'mean': 1, 'yes': 1, 'but': 1, 'that': 1, 'will': 1, 'never': 1, 'happen': 1, 'netherlands': 1, 'was': 1, '15th': 1}
+
+False Negative: Original Text: Told my little cousin who LOVES #TheWalkingDead tv show Id send her the comics for XMas. Shes in 7th grade.  Figured Vol1 isnt too intense. -- Actual Label: positive 
+Extracted Features: {'told': 1, 'my': 1, 'little': 1, 'cousin': 1, 'who': 1, 'loves': 1, 'thewalkingdead': 1, 'tv': 1, 'show': 1, 'id': 1, 'send': 1, 'her': 1, 'the': 1, 'comics': 1, 'for': 1, 'xmas': 1, 'shes': 1, 'in': 1, '7th': 1, 'grade': 1, 'figured': 1, 'vol1': 1, 'isnt': 1, 'too': 1, 'intense': 1}
+
+False Negative: Original Text: Someone runs the wrong route on 3rd and 8, but Andy Lee saves it with a MONSTER punt. Special teams to the rescue? -- Actual Label: positive 
+Extracted Features: {'someone': 1, 'runs': 1, 'the': 1, 'wrong': 1, 'route': 1, 'on': 1, '3rd': 1, 'and': 1, '8': 1, 'but': 1, 'andy': 1, 'lee': 1, 'saves': 1, 'it': 1, 'with': 1, 'a': 1, 'monster': 1, 'punt': 1, 'special': 1, 'teams': 1, 'to': 1, 'rescue': 1}
+
+False Negative: Original Text: If you missed @ShawnMichaels MRA on Tues it's back on 50 mins Pay attention cause there's a chance to hang out with HBK http://t.co/2vbH4PZN -- Actual Label: positive 
+Extracted Features: {'if': 1, 'you': 1, 'missed': 1, 'shawnmichaels': 1, 'mra': 1, 'on': 1, 'tues': 1, 'its': 1, 'back': 1, '50': 1, 'mins': 1, 'pay': 1, 'attention': 1, 'cause': 1, 'theres': 1, 'a': 1, 'chance': 1, 'to': 1, 'hang': 1, 'out': 1, 'with': 1, 'hbk': 1, 'httptco2vbh4pzn': 1}
+
+False Negative: Original Text: @fatimasule That was the revelation I mentioned on sunday evening. I am still in Abj. How are u & where have u been again? -- Actual Label: positive 
+Extracted Features: {'fatimasule': 1, 'that': 1, 'was': 1, 'the': 1, 'revelation': 1, 'i': 1, 'mentioned': 1, 'on': 1, 'sunday': 1, 'evening': 1, 'am': 1, 'still': 1, 'in': 1, 'abj': 1, 'how': 1, 'are': 1, 'u': 1, 'where': 1, 'have': 1, 'been': 1, 'again': 1}
+
+False Negative: Original Text: CME ~ Evidence suggests combo treatment may be the best option for DME. Posterior segment drug delivery is also key.  http://t.co/A0E5n4pG -- Actual Label: positive 
+Extracted Features: {'cme': 1, 'evidence': 1, 'suggests': 1, 'combo': 1, 'treatment': 1, 'may': 1, 'be': 1, 'the': 1, 'best': 1, 'option': 1, 'for': 1, 'dme': 1, 'posterior': 1, 'segment': 1, 'drug': 1, 'delivery': 1, 'is': 1, 'also': 1, 'key': 1, 'httptcoa0e5n4pg': 1}
+
+False Negative: Original Text: @Diarmuidm77lfc4 Ya our game in hand is v Bolton!!!!!. 6 pointer ha!..Playing Norwich last game of the season!.#hopeless -- Actual Label: positive 
+Extracted Features: {'diarmuidm77lfc4': 1, 'ya': 1, 'our': 1, 'game': 1, 'in': 1, 'hand': 1, 'is': 1, 'v': 1, 'bolton': 1, '6': 1, 'pointer': 1, 'haplaying': 1, 'norwich': 1, 'last': 1, 'of': 1, 'the': 1, 'seasonhopeless': 1}
+
+False Negative: Original Text: As my mom said, I shouldn't be bitter because THSK will always hold the honor and prestige of being the 1st Korean group to perform in TDome -- Actual Label: positive 
+Extracted Features: {'as': 1, 'my': 1, 'mom': 1, 'said': 1, 'i': 1, 'shouldnt': 1, 'be': 1, 'bitter': 1, 'because': 1, 'thsk': 1, 'will': 1, 'always': 1, 'hold': 1, 'the': 1, 'honor': 1, 'and': 1, 'prestige': 1, 'of': 1, 'being': 1, '1st': 1, 'korean': 1, 'group': 1, 'to': 1, 'perform': 1, 'in': 1, 'tdome': 1}
+
+False Negative: Original Text: Thank god bob gainey isnt the gm of monteal anymore. He probably would have tried to pick mario lemieux with the 3rd pick #TSN #NHLDRAFT -- Actual Label: positive 
+Extracted Features: {'thank': 1, 'god': 1, 'bob': 1, 'gainey': 1, 'isnt': 1, 'the': 1, 'gm': 1, 'of': 1, 'monteal': 1, 'anymore': 1, 'he': 1, 'probably': 1, 'would': 1, 'have': 1, 'tried': 1, 'to': 1, 'pick': 1, 'mario': 1, 'lemieux': 1, 'with': 1, '3rd': 1, 'tsn': 1, 'nhldraft': 1}
+
+False Negative: Original Text: Cant wait to watch the debate tomorrow night. If Romney grills Obama as hard as he did Gingrich in FL, Romney will wipe the floor with Obama -- Actual Label: positive 
+Extracted Features: {'cant': 1, 'wait': 1, 'to': 1, 'watch': 1, 'the': 1, 'debate': 1, 'tomorrow': 1, 'night': 1, 'if': 1, 'romney': 1, 'grills': 1, 'obama': 1, 'as': 1, 'hard': 1, 'he': 1, 'did': 1, 'gingrich': 1, 'in': 1, 'fl': 1, 'will': 1, 'wipe': 1, 'floor': 1, 'with': 1}
+
+False Negative: Original Text: @JETHROnaldo7 the reason why I'm telling you HMV is kasi may special editions yan and shit :> -- Actual Label: positive 
+Extracted Features: {'jethronaldo7': 1, 'the': 1, 'reason': 1, 'why': 1, 'im': 1, 'telling': 1, 'you': 1, 'hmv': 1, 'is': 1, 'kasi': 1, 'may': 1, 'special': 1, 'editions': 1, 'yan': 1, 'and': 1, 'shit': 1}
+
+False Negative: Original Text: In tomorrow's debate, if Romney is half as sharp as he was in this earlier exchange with Gingrich... Obama is toast: http://t.co/Bi5pNvMR -- Actual Label: positive 
+Extracted Features: {'in': 1, 'tomorrows': 1, 'debate': 1, 'if': 1, 'romney': 1, 'is': 1, 'half': 1, 'as': 1, 'sharp': 1, 'he': 1, 'was': 1, 'this': 1, 'earlier': 1, 'exchange': 1, 'with': 1, 'gingrich': 1, 'obama': 1, 'toast': 1, 'httptcobi5pnvmr': 1}
+
+False Negative: Original Text: Tough loss for @statebaseball today. Good luck on Monday with selection Sunday -- Actual Label: positive 
+Extracted Features: {'tough': 1, 'loss': 1, 'for': 1, 'statebaseball': 1, 'today': 1, 'good': 1, 'luck': 1, 'on': 1, 'monday': 1, 'with': 1, 'selection': 1, 'sunday': 1}
+
+False Negative: Original Text: National Women's Day in #SouthAfrica this Thursday, 9 August. Promote  gender equality and an end to abuse of women in Africa + the world -- Actual Label: positive 
+Extracted Features: {'national': 1, 'womens': 1, 'day': 1, 'in': 1, 'southafrica': 1, 'this': 1, 'thursday': 1, '9': 1, 'august': 1, 'promote': 1, 'gender': 1, 'equality': 1, 'and': 1, 'an': 1, 'end': 1, 'to': 1, 'abuse': 1, 'of': 1, 'women': 1, 'africa': 1, 'the': 1, 'world': 1}
+
+False Negative: Original Text: I'm done with SATs. If anyone wants my sat book w/ notes hit me up. I'll let you have it. -- Actual Label: positive 
+Extracted Features: {'im': 1, 'done': 1, 'with': 1, 'sats': 1, 'if': 1, 'anyone': 1, 'wants': 1, 'my': 1, 'sat': 1, 'book': 1, 'w': 1, 'notes': 1, 'hit': 1, 'me': 1, 'up': 1, 'ill': 1, 'let': 1, 'you': 1, 'have': 1, 'it': 1}
+
+False Negative: Original Text: HELP STOP KONY hes not dead! Washington, D.C. on November 17 please go and help get the president to get Kony go to there website! #kony! -- Actual Label: positive 
+Extracted Features: {'help': 1, 'stop': 1, 'kony': 1, 'hes': 1, 'not': 1, 'dead': 1, 'washington': 1, 'dc': 1, 'on': 1, 'november': 1, '17': 1, 'please': 1, 'go': 1, 'and': 1, 'get': 1, 'the': 1, 'president': 1, 'to': 1, 'there': 1, 'website': 1}
+
+False Negative: Original Text: @ali_liz1 I thought that was just Alan Rickman? David Thewlis (or Remus Lupin, if you may) is mine! We already agreed on that! -- Actual Label: positive 
+Extracted Features: {'ali_liz1': 1, 'i': 1, 'thought': 1, 'that': 1, 'was': 1, 'just': 1, 'alan': 1, 'rickman': 1, 'david': 1, 'thewlis': 1, 'or': 1, 'remus': 1, 'lupin': 1, 'if': 1, 'you': 1, 'may': 1, 'is': 1, 'mine': 1, 'we': 1, 'already': 1, 'agreed': 1, 'on': 1}
+
+False Negative: Original Text: Questions about becoming apart of LSCA? Come stop by our table outside Gregory Gym from 5-6pm this Thursday! #hookem #L4Z #LSCA -- Actual Label: positive 
+Extracted Features: {'questions': 1, 'about': 1, 'becoming': 1, 'apart': 1, 'of': 1, 'lsca': 1, 'come': 1, 'stop': 1, 'by': 1, 'our': 1, 'table': 1, 'outside': 1, 'gregory': 1, 'gym': 1, 'from': 1, '56pm': 1, 'this': 1, 'thursday': 1, 'hookem': 1, 'l4z': 1}
+
+False Negative: Original Text: Happy Tuesday. Your batting average is no worse than that of Jose Iglesias. Hopefully that gets you through the day. -- Actual Label: positive 
+Extracted Features: {'happy': 1, 'tuesday': 1, 'your': 1, 'batting': 1, 'average': 1, 'is': 1, 'no': 1, 'worse': 1, 'than': 1, 'that': 1, 'of': 1, 'jose': 1, 'iglesias': 1, 'hopefully': 1, 'gets': 1, 'you': 1, 'through': 1, 'the': 1, 'day': 1}
+
+False Negative: Original Text: Daylight Savings Time ends this Sunday. Except Arizona, where we gain the hour because we don't have to change any the clocks. #smallvictory -- Actual Label: positive 
+Extracted Features: {'daylight': 1, 'savings': 1, 'time': 1, 'ends': 1, 'this': 1, 'sunday': 1, 'except': 1, 'arizona': 1, 'where': 1, 'we': 1, 'gain': 1, 'the': 1, 'hour': 1, 'because': 1, 'dont': 1, 'have': 1, 'to': 1, 'change': 1, 'any': 1, 'clocks': 1, 'smallvictory': 1}
+
+False Negative: Original Text: @BakedFoxxx Fuck Rusko lol. Laidback Luke is here in El Paso on Friday, I could go since I'm so close! Haha, but I'm going home Friday. -- Actual Label: positive 
+Extracted Features: {'bakedfoxxx': 1, 'fuck': 1, 'rusko': 1, 'lol': 1, 'laidback': 1, 'luke': 1, 'is': 1, 'here': 1, 'in': 1, 'el': 1, 'paso': 1, 'on': 1, 'friday': 1, 'i': 1, 'could': 1, 'go': 1, 'since': 1, 'im': 1, 'so': 1, 'close': 1, 'haha': 1, 'but': 1, 'going': 1, 'home': 1}
+
+False Negative: Original Text: One other possibility: Hawaii. Chow may be done with BYU and Hawaii may have better options from teams on probation for their Dec 7 game. -- Actual Label: positive 
+Extracted Features: {'one': 1, 'other': 1, 'possibility': 1, 'hawaii': 1, 'chow': 1, 'may': 1, 'be': 1, 'done': 1, 'with': 1, 'byu': 1, 'and': 1, 'have': 1, 'better': 1, 'options': 1, 'from': 1, 'teams': 1, 'on': 1, 'probation': 1, 'for': 1, 'their': 1, 'dec': 1, '7': 1, 'game': 1}
+
